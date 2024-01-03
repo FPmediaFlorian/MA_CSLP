@@ -1,0 +1,224 @@
+[
+  {
+    "contents": [
+      {
+        "content": "https://app.Lumi.education/run/7nLb4h",
+        "contentID": "203d21f8-d9e4-4e9e-b0dc-830ba387a53c",
+        "name": "Was weißt du schon über Passwörter?",
+        "type": "4"
+      },
+      {
+        "content": "Bestimmt hast du dich schon einmal irgendwo angemeldet, wo du nach einem Passwort gefragt worden bist. Du brauchst ein Passwort, um Informationen vor anderen Menschen zu schützen. Es ist wie ein Schlüssel für den Computer und das Internet. Wenn du dich bei einer Kinderseite anmeldest oder registriert, musst du ein Passwort eingeben. Wichtig ist dabei, dass es schwer zu erraten ist und niemand außer deiner Eltern das Passwort kennt. Gäbe es keine Passwörter, könnte sich jeder mit dem Account eines anderen anmelden und unter dessen Namen im Internet surfen und E-Mails verschicken.",
+        "contentID": "ada38769-56e2-43d6-a68b-c04bad5e2c62",
+        "name": "Warum sind sichere Passwörter so wichtig?",
+        "type": "1"
+      },
+      {
+        "content": "Um ausreichend Schutz zu bieten, sollte dein persönliches Kennwort die folgenden Merkmale erfüllen:<p> <p>1. <strong>Es hat mindestens 8 Zeichen.</strong></p><p>2. <strong>Es enthält Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen (wie z. B. +, / oder ?).</strong></p><p>3. <strong>Es kommen darin keine persönlichen Daten vor (wie z. B. dein Name oder dein Geburtsdatum).</strong></p><p>4. <strong>Es ist geheim. Du solltest es also niemandem verraten.</strong></p><p>5. <strong>Es ist nirgendwo aufgeschrieben. Du solltest es dir also gut merken können.</strong></p>",
+        "contentID": "2ec744b4-3551-4dcc-bbaf-875558c0bdd5",
+        "name": "Was ist ein sicheres Passwort?",
+        "type": "1"
+      },
+      {
+        "content": "https://www.youtube.com/watch?v=1lVqVVgkxYE",
+        "contentID": "0f9368ec-e504-4905-a07c-d05a1106bce6",
+        "name": "Was ist ein sicheres Passwort?",
+        "type": "3"
+      },
+      {
+        "content": "https://app.Lumi.education/run/N99gGo",
+        "contentID": "a7402ec6-6099-4153-8aae-851b51a9a608",
+        "name": "Was ist ein sicheres Passwort?",
+        "type": "4"
+      },
+      {
+        "content": "https://app.Lumi.education/run/semYUf",
+        "contentID": "c0e5fc31-e6d3-47d6-8bc4-b322534acf8f",
+        "name": "Spiel zur Merkhilfe",
+        "type": "4"
+      },
+      {
+        "content": "https://fpmedia.at/master/PizzaGrafik.png",
+        "contentID": "d1d037a0-a56b-4b1d-862a-f44746ca279f",
+        "name": "Hier kannst du das Bild nochmal genauer betrachten",
+        "type": "2"
+      },
+      {
+        "content": "<p>Es ist nicht immer ganz einfach, ein gutes Passwort zu finden. Denn auf der einen Seite soll es für andere nicht so leicht zu erraten sein, auf der anderen sollst du es dir dennoch gut merken können. Eine Eselsbrücke kann da helfen. Denk dir einen Satz aus, mit dessen Hilfe du dir dein Passwort gut behalten kannst. Hier ein paar Beispiele:</p><p>Ich habe beim Weitwurf den 2. Platz gemacht! > Passwort: IhbWd2Pg!</p><p>99 Luftballons - auf ihrem Weg zum Horizont > Passwort: 99L-aiWzH</p><p>Ist am 3. Oktober Tag der Deutschen Einheit? > Passwort: Ia3OTdDE?</p>",
+        "contentID": "73a0eb58-f09f-4627-83c2-0f5db44d9ce1",
+        "name": "Merkhilfe für Passwörter",
+        "type": "1"
+      },
+      {
+        "content": "https://app.Lumi.education/run/bYqQPw",
+        "contentID": "3c223e06-707e-4e8a-9d61-3036c5a70543",
+        "name": "Spiel zur Merkhilfe",
+        "type": "4"
+      },
+      {
+        "content": "https://app.Lumi.education/run/Wr6AFa",
+        "contentID": "b8f79e56-d2dc-493b-8900-f43c8d3b255d",
+        "name": "Abschlussquiz",
+        "type": "4"
+      }
+    ],
+    "description": "Jeder spricht immer über Passwörter, aber was ist das eigentlich und wozu werden die verwendet?",
+    "imgLink": "https://fpmedia.at/master/password1.png",
+    "name": "Was sind Passwörter?",
+    "pageID": "1f96ad08-0414-44df-9c92-7017cd317481"
+  },
+  {
+    "contents": [
+      {
+        "content": "<p>In diesem Kurs lernst du, wie du deine Passwörter mithilfe eines Passwort-Managers speichern und verwenden kannst. Außerdem werden wir einige Gefahren, die im Zusammenhang mit Passwörtern bestehen, genauer erkunden. Zu Beginn machen wir allerdings ein kleines Quiz, um zu sehen, was du schon alles über Passwörter weißt.</p>",
+        "contentID": "0c7ac8ca-1eeb-45ab-888f-61a3df201c5f",
+        "name": "Was erwartet dich in diesem Kurs?",
+        "type": "1"
+      },
+      {
+        "content": "https://app.Lumi.education/run/jXia1s",
+        "contentID": "6e4112e5-9018-44db-8c78-a11dc1c18484",
+        "name": "Was weißt du schon über Passwörter?",
+        "type": "4"
+      },
+      {
+        "content": "<p>Ein Passwort-Manager ist ein Computerprogramm oder eine App, die dir hilft, deine Passwörter sicher aufzubewahren. Statt sich alle deine Passwörter merken zu müssen, kannst du sie im Passwort-Manager ganz einfach speichern. Du kannst du so einen Passwort-Manager wie einen Tresor vorstellen. Zu diesem brauchst du dann nur noch ein einziges sicheres Passwort, um auf alle deine anderen Passwörter zugreifen zu können.&nbsp;</p>",
+        "contentID": "6df9f724-3fb7-4a7a-9ca1-ab00b43f7dcb",
+        "name": "Was ist ein Passwort-Manager?",
+        "type": "1"
+      },
+      {
+        "content": "https://app.Lumi.education/run/GLoP6K",
+        "contentID": "52ad7d31-bcc5-40c1-abb8-27a723722a73",
+        "name": "Passwort Memory",
+        "type": "4"
+      },
+      {
+        "content": "<p>Es ist super, dass Passwort-Manager uns helfen, da es schwer ist sich viele sichere Passwörter zu merken. Zudem ist es viel sicherer, die Passwörter in einem Passwort-Manager zu speichern, anstatt sie irgendwo aufzuschreiben. Sollte jemand die aufgeschriebenen Passwörter finden, könnte er oder sie ganz einfach in deine Accounts eindringen. Mit einem Passwort-Manager brauchst du dir darüber keine Sorgen machen, weil die Passwörter verschlüsselt an einem sicheren Ort liegen.<br>Außerdem kann dich dein Passwort-Manager auch dabei unterstützen, sichere und starke Passwörter zu erstellen. Diese Passwörter sind dann meistens so kompliziert, dass du sie im Normalfall nicht so erstellen würdest. Meistens kannst du dir die Passwörter auch nur schwer merken, das macht aber nichts, da du sie ja sowieso in deinem Passwort-Manager speicherst.<br>Ein Passwort-Manager hilft dir dabei deine Passwörter zu speichern und dir das merken und erstellen von vielen verschiedenen Passwörtern zu erleichtern.</p>",
+        "contentID": "7361683c-ac3e-4459-b185-62152302cfff",
+        "name": "Was können Passwort-Manager noch?",
+        "type": "1"
+      },
+      {
+        "content": "https://app.Lumi.education/run/0sfU1z",
+        "contentID": "748177ae-e3b0-4963-98f0-4776bef93d65",
+        "name": "Quiz Passwort Manager",
+        "type": "4"
+      },
+      {
+        "content": "<p>Neben relativ harmlosen Werbe-E-Mails und Kettenbriefen können weitaus gefährlichere E-Mails deinen Posteingang überschwemmen.Es gibt finstere Leute, die versuchen, dein Passwort zu stehlen (von ebay, Amazon usw.).&nbsp;</p><p>\"Phishing\" heißt diese Art des Datendiebstahls. Kriminelle bedienen sich dabei eines einfachen Tricks: Sie verlangen unter einem Vorwand geheime Daten. Als Köder senden sie E-Mails, die scheinbar von Websites stammen, für die sie die Passwörter wissen wollen. Die E-Mail enthält Links, die direkt zu gefälschten Kopien bekannter Websites führen. Wenn ich klicke, bist du fast mit Haken. Auf der Landing-Website wirst du aufgefordert, deine Daten einzugeben. Und boom - die Bösewichte haben deine Daten bereits und können sie verwenden.</p><p>Natürlich können sie Daten \"phishen\", die auch zum Geldverdienen verwendet werden können, wie z. B. Internet-Auktionshäuser, Bankkonten, Internet-Zahlungssysteme usw. Manche Leute mögen es es insbesondere.</p>",
+        "contentID": "165ad5e2-0da0-4b72-b3c3-760c4af0af80",
+        "name": "Gefahren für Passwörter - Phishing",
+        "type": "1"
+      },
+      {
+        "content": "https://app.Lumi.education/run/AzL05Y",
+        "contentID": "428d00bf-039a-4187-961d-2880fc353b1c",
+        "name": "Gefährliche E-Mails erkennen",
+        "type": "4"
+      },
+      {
+        "content": "<p>Passwörter sollen nicht kurz, sondern lieber lang sein, denn dann sind sie sicherer. Kurze Passwörter sind nicht so sicher, weil sie leicht von jemandem erraten werden können.</p><p>Wenn ein Passwort lang ist, gibt es viele verschiedene Buchstaben und Zahlen, die man verwenden kann. Das macht es schwerer für jemanden, es herauszufinden.</p><p>Es ist wichtig, dass dein Passwort nicht kurz ist, sondern aus vielen Buchstaben, Zahlen und besonderen Zeichen besteht. Dann ist es schwieriger für jemanden, es zu erraten, und es bleibt sicher.</p>",
+        "contentID": "56781c84-a812-476f-9ec4-14adbc361231",
+        "name": "Warum sind längere Passwörter sicherer?",
+        "type": "1"
+      },
+      {
+        "content": "<p>Die Bösewichte, die deine Passwörter klauen wollen, denken nicht nur darüber nach, welches Passwort du haben könntest. Manchmal versuchen sie einfach viele verschiedene Passwörter aus.</p><p>Es dauert sehr lange, wenn jemand alle möglichen Passwort-Kombinationen ausprobieren will. Aber für einen Computer ist das wie ein Spiel.</p><p>Stell dir vor, du hast ein Passwort, das aus vier Zahlen besteht, so wie bei einem Handy. Es gibt 10.000 verschiedene Möglichkeiten dafür. Das bedeutet, es würde dir sehr lange dauern, alle Möglichkeiten auszuprobieren. Aber ein Computer braucht im Durchschnitt nur 6 Minuten, um das richtige Passwort herauszufinden. Das ist ziemlich schnell!</p>",
+        "contentID": "1fa775a1-a1c5-45fd-9300-322af70f4e7a",
+        "name": "Passwörter erraten",
+        "type": "1"
+      },
+      {
+        "content": "http://cslearning:8081/localgames/pwgame",
+        "contentID": "4c7a6e0b-7573-4c63-9e21-0501bace6362",
+        "name": "Wie lange sollte ein Passwort sein?",
+        "type": "4"
+      },
+      {
+        "content": "<p>Wie du siehst, gibt es für Passwörter sehr viele Gefahren und man ist nie zu 100 % sicher. Wenn du die gelernten Tipps und Ticks anwendest, bist du allerdings schon sehr gut gegen viele Gefahren geschützt.</p><p>Zum Anschluss kannst du noch ein Quiz machen, dass all dein gelerntes Wissen über Passwörter auf die Probe stellt.</p>",
+        "contentID": "12344743-7a56-4613-9c87-d82ca97ff416",
+        "name": "Viele Gefahren - aber du bist gerüstet",
+        "type": "1"
+      },
+      {
+        "content": "https://app.Lumi.education/run/P8WiVf",
+        "contentID": "0fef24dc-295c-4f88-b771-2826fcbbe90b",
+        "name": "Abschlussquiz - Bist du Passwort-Profi?",
+        "type": "4"
+      }
+    ],
+    "description": "Du weißt schon, wie du Passwörter erstellst und wozu sie da sind. Aber wie kannst du sie schützen?",
+    "imgLink": "https://fpmedia.at/master/password2.png",
+    "name": "Wie kann ich meine Passwörter schützen?",
+    "pageID": "91381cfc-8f32-4116-8330-63775332cecb"
+  },
+  {
+    "contents": [
+      {
+        "content": "<p>Herzlich willkommen zum Kurs \"Gesunder Umgang mit digitalen Geräten\"!&nbsp;</p><p>Hier lernst du, wie du sicher und gesund mit digitalen Geräten umgehen kannst.</p><p>Im nächsten Spiel kannst du direkt dein Wissen über Computer und das Internet auf die Probe stellen.</p>",
+        "contentID": "1dc8f672-2ffd-4c2a-8deb-62333ffe0a75",
+        "name": "Willkommen zu diesem Kurs!",
+        "type": "1"
+      },
+      {
+        "content": "<p>To be Game</p>",
+        "contentID": "a3eb8267-a960-45e2-94b4-d2d86511d228",
+        "name": "Digitale Welten erkunden",
+        "type": "1"
+      },
+      {
+        "content": "<p>Das Internet ist wie eine aufregende und riesige Welt voller Wissen, Unterhaltung und Möglichkeiten. Aber was ist das Internet genau?</p><p>Stell dir das Internet wie eine riesige Bibliothek vor, in der es Millionen von Büchern gibt. Aber anstelle von Büchern sind es Websites, die in dieser digitalen Bibliothek gespeichert sind. Jede Website ist wie ein Buch, das Informationen zu verschiedenen Themen enthält.</p><p>Das Besondere am Internet ist, dass du nicht nur lesen kannst, sondern auch Dinge schreiben und mit anderen teilen kannst. Du kannst mit Freunden chatten, Bilder mit deiner Familie teilen und sogar Videoanrufe mit Verwandten in der Ferne führen. Das Internet verbindet Menschen auf der ganzen Welt und ermöglicht es uns, miteinander in Kontakt zu bleiben.</p>",
+        "contentID": "9d294779-3dd2-4509-9c69-697e644fc4f8",
+        "name": "Die Welt des Internets verstehen",
+        "type": "1"
+      },
+      {
+        "content": "https://fpmedia.at/master/internetIllustration.png",
+        "contentID": "35a9e08e-1bfc-41b2-a629-1134303a7c5b",
+        "name": "Das Internet",
+        "type": "2"
+      },
+      {
+        "content": "<p>Lerne, wie du dich vor gefährlichen Dingen im Internet schützen kannst, wie z. B. Viren und gefälschten Websites.</p>",
+        "contentID": "5c024e5e-5cf3-47d8-bce3-dc80397568d4",
+        "name": "Wie bleibe ich sicher online?",
+        "type": "1"
+      },
+      {
+        "content": "https://www.youtube.com/watch?v=YFMzK4y4xGQ",
+        "contentID": "1f02be64-3e42-41a0-8a4a-b5a3b3daeb00",
+        "name": "Sicheres surfen",
+        "type": "3"
+      },
+      {
+        "content": "<p>Digitale Freundschaften sind Beziehungen, die wir online aufbauen. Sie können Spaß machen und uns mit Menschen aus der ganzen Welt verbinden. Hier sind einige Tipps:</p><ol><li><strong>Sei freundlich und respektvoll</strong>: Behandle andere online so, wie du behandelt werden möchtest.</li><li><strong>Teile keine persönlichen Informationen</strong>: Halte deine privaten Daten geheim, um sicher zu bleiben.</li><li><strong>Melde unangemessenes Verhalten</strong>: Wenn jemand unhöflich ist, melde es oder sprich mit einem Erwachsenen.</li><li><strong>Vertraue deinem Bauchgefühl</strong>: Sei vorsichtig und vertraue deinem Gefühl, wenn etwas seltsam erscheint.</li><li><strong>Plane Treffen sicher</strong>: Wenn du dich mit einem Online-Freund triffst, wähle einen öffentlichen Ort und nimm einen Erwachsenen mit.</li><li><strong>Halte den Kontakt aufrecht</strong>: Pflege deine digitalen Freundschaften und sei für deine Freunde da.</li></ol><p>Digitale Freundschaften können bereichernd sein, wenn wir sicher und respektvoll bleiben.&nbsp;<br>Bleib verbunden und genieße die Online-Welt!</p>",
+        "contentID": "003e2117-b53f-4ef5-8334-7c94e40077ca",
+        "name": "Wie pflege ich gesunde Online-Freundschaften?",
+        "type": "1"
+      },
+      {
+        "content": "https://fpmedia.at/master/connected.jpeg",
+        "contentID": "77abe937-a8a3-4e1c-a809-41ffafd21ba1",
+        "name": "Digitale Freundschaften",
+        "type": "2"
+      },
+      {
+        "content": "<p>Entdecke, warum es so wichtig ist, deine persönlichen Informationen privat zu halten und wie du das machst.</p>",
+        "contentID": "c9e9cfb1-f22e-481d-8585-8ec8594ce210",
+        "name": "Privatsphäre im Internet",
+        "type": "1"
+      },
+      {
+        "content": "https://www.youtube.com/watch?v=rdeq7Jy03yI",
+        "contentID": "353c00e6-f248-489b-9779-8e5aa17ce297",
+        "name": "Video über Privatsphäre im Internet",
+        "type": "3"
+      }
+    ],
+    "description": "Entdecke in diesem Kurs, wie du Spaß in der digitalen Welt haben und dabei sicher und gesund bleiben kannst!",
+    "imgLink": "https://fpmedia.at/master/digitalWellness.png",
+    "name": "Gesunder Umgang mit digitalen Geräten",
+    "pageID": "f6523312-c31f-411c-b102-8241c085446d"
+  }
+]

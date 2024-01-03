@@ -1,0 +1,792 @@
+2022-09-01 14:21:09,481 ERROR app MainThread : 'imgLink'
+2022-09-01 14:30:36,467 ERROR app MainThread : 'name'
+2022-09-01 14:32:47,440 ERROR app MainThread : 'Request' object has no attribute 'jso'
+2022-09-01 14:35:03,652 ERROR app MainThread : 'Request' object has no attribute 'jso'
+2022-09-01 14:35:38,002 ERROR app MainThread : 'name'
+2022-09-01 14:35:47,513 ERROR app MainThread : 'name'
+2022-09-01 14:44:18,788 ERROR app MainThread : 'description'
+2022-09-01 14:44:18,805 ERROR app MainThread : 'imgLink'
+2022-09-01 14:44:18,820 ERROR app MainThread : 'name'
+2022-09-01 14:44:56,809 ERROR app MainThread : 'description'
+2022-09-01 14:44:56,822 ERROR app MainThread : 'imgLink'
+2022-09-01 14:44:56,835 ERROR app MainThread : 'name'
+2022-09-01 14:45:49,755 ERROR app MainThread : 'description'
+2022-09-01 14:45:49,770 ERROR app MainThread : 'imgLink'
+2022-09-01 14:45:49,784 ERROR app MainThread : 'name'
+2022-09-01 14:47:07,279 ERROR app MainThread : 'description'
+2022-09-01 14:47:07,290 ERROR app MainThread : 'imgLink'
+2022-09-01 14:47:07,302 ERROR app MainThread : 'name'
+2022-09-01 14:48:41,998 ERROR app MainThread : 'description'
+2022-09-01 14:48:42,012 ERROR app MainThread : 'imgLink'
+2022-09-01 14:48:42,027 ERROR app MainThread : 'name'
+2022-09-01 14:54:28,827 ERROR app MainThread : 'description'
+2022-09-01 14:54:28,847 ERROR app MainThread : 'imgLink'
+2022-09-01 14:54:28,864 ERROR app MainThread : 'name'
+2022-09-01 14:55:27,128 ERROR app MainThread : 'description'
+2022-09-01 14:55:27,142 ERROR app MainThread : 'imgLink'
+2022-09-01 14:55:27,157 ERROR app MainThread : 'name'
+2022-09-01 14:56:57,562 ERROR app MainThread : 'description'
+2022-09-01 14:56:57,577 ERROR app MainThread : 'imgLink'
+2022-09-01 14:56:57,590 ERROR app MainThread : 'name'
+2022-09-01 14:57:26,171 ERROR app MainThread : 'description'
+2022-09-01 14:57:26,187 ERROR app MainThread : 'imgLink'
+2022-09-01 14:57:26,202 ERROR app MainThread : 'name'
+2022-09-01 14:57:54,970 ERROR app MainThread : 'description'
+2022-09-01 14:57:54,983 ERROR app MainThread : 'imgLink'
+2022-09-01 14:57:55,005 ERROR app MainThread : 'name'
+2022-09-01 14:59:18,530 ERROR app MainThread : 'description'
+2022-09-01 14:59:18,543 ERROR app MainThread : 'imgLink'
+2022-09-01 14:59:18,557 ERROR app MainThread : 'name'
+2022-09-01 15:00:11,360 ERROR app MainThread : Request on /page with POST
+2022-09-01 15:00:11,386 ERROR app MainThread : Request on /page with POST
+2022-09-01 15:00:11,386 ERROR app MainThread : 'description'
+2022-09-01 15:00:11,398 ERROR app MainThread : Request on /page with POST
+2022-09-01 15:00:11,398 ERROR app MainThread : 'imgLink'
+2022-09-01 15:00:11,412 ERROR app MainThread : Request on /page with POST
+2022-09-01 15:00:11,412 ERROR app MainThread : 'name'
+2022-09-01 15:00:11,426 ERROR app MainThread : Request on /page with POST
+2022-09-01 15:01:06,182 ERROR app MainThread : 'description'
+2022-09-01 15:01:06,197 ERROR app MainThread : 'imgLink'
+2022-09-01 15:01:06,210 ERROR app MainThread : 'name'
+2022-09-01 15:01:06,225 ERROR app MainThread : [<Page fcb113d8-461a-4e37-a538-9191b4b0f502>]
+2022-09-01 15:01:06,225 ERROR app MainThread : [<Response 115 bytes [200 OK]>]
+2022-09-01 15:02:06,084 ERROR app MainThread : 'description'
+2022-09-01 15:02:06,096 ERROR app MainThread : 'imgLink'
+2022-09-01 15:02:06,107 ERROR app MainThread : 'name'
+2022-09-01 15:03:49,243 ERROR app MainThread : 'description'
+2022-09-01 15:03:49,254 ERROR app MainThread : 'imgLink'
+2022-09-01 15:03:49,266 ERROR app MainThread : 'name'
+2022-09-01 15:04:21,073 ERROR app MainThread : 'description'
+2022-09-01 15:04:21,086 ERROR app MainThread : 'imgLink'
+2022-09-01 15:04:21,099 ERROR app MainThread : 'name'
+2022-09-01 15:05:02,052 ERROR app MainThread : 'description'
+2022-09-01 15:05:02,065 ERROR app MainThread : 'imgLink'
+2022-09-01 15:05:02,077 ERROR app MainThread : 'name'
+2022-09-01 15:05:17,592 ERROR app MainThread : 'description'
+2022-09-01 15:05:17,605 ERROR app MainThread : 'imgLink'
+2022-09-01 15:05:17,629 ERROR app MainThread : 'name'
+2022-09-01 15:07:52,038 ERROR app MainThread : 'description'
+2022-09-01 15:07:52,048 ERROR app MainThread : 'imgLink'
+2022-09-01 15:07:52,059 ERROR app MainThread : 'name'
+2022-09-01 15:08:32,218 ERROR app MainThread : 'description'
+2022-09-01 15:08:32,229 ERROR app MainThread : 'imgLink'
+2022-09-01 15:08:32,241 ERROR app MainThread : 'name'
+2022-09-01 15:09:14,938 ERROR app MainThread : 'description'
+2022-09-01 15:09:14,950 ERROR app MainThread : 'imgLink'
+2022-09-01 15:09:14,961 ERROR app MainThread : 'name'
+2022-09-01 15:10:24,228 ERROR app MainThread : 'description'
+2022-09-01 15:10:24,240 ERROR app MainThread : 'imgLink'
+2022-09-01 15:10:24,253 ERROR app MainThread : 'name'
+2022-09-01 15:10:40,119 ERROR app MainThread : 'description'
+2022-09-01 15:10:40,131 ERROR app MainThread : 'imgLink'
+2022-09-01 15:10:40,143 ERROR app MainThread : 'name'
+2022-09-01 15:10:48,717 ERROR app MainThread : 'description'
+2022-09-01 15:10:48,729 ERROR app MainThread : 'imgLink'
+2022-09-01 15:10:48,739 ERROR app MainThread : 'name'
+2022-09-01 15:14:15,237 ERROR app MainThread : 'description'
+2022-09-01 15:14:15,250 ERROR app MainThread : 'imgLink'
+2022-09-01 15:14:15,263 ERROR app MainThread : 'name'
+2022-09-01 15:29:55,875 ERROR app MainThread : 'description'
+2022-09-01 15:29:55,887 ERROR app MainThread : 'imgLink'
+2022-09-01 15:29:55,899 ERROR app MainThread : 'name'
+2022-09-01 15:30:16,898 ERROR app MainThread : 'description'
+2022-09-01 15:30:16,911 ERROR app MainThread : 'imgLink'
+2022-09-01 15:30:16,922 ERROR app MainThread : 'name'
+2022-09-01 15:30:16,947 ERROR app MainThread : [<Response 115 bytes [200 OK]>]
+2022-09-01 15:31:06,982 ERROR app MainThread : 'description'
+2022-09-01 15:31:06,996 ERROR app MainThread : 'imgLink'
+2022-09-01 15:31:07,008 ERROR app MainThread : 'name'
+2022-09-01 15:31:07,024 ERROR app MainThread : [<Response 115 bytes [200 OK]>]
+2022-09-01 15:31:38,639 ERROR app MainThread : 'description'
+2022-09-01 15:31:38,650 ERROR app MainThread : 'imgLink'
+2022-09-01 15:31:38,661 ERROR app MainThread : 'name'
+2022-09-01 15:31:38,676 ERROR app MainThread : [<Response 115 bytes [200 OK]>]
+2022-09-01 15:32:30,044 ERROR app MainThread : 'description'
+2022-09-01 15:32:30,056 ERROR app MainThread : 'imgLink'
+2022-09-01 15:32:30,067 ERROR app MainThread : 'name'
+2022-09-01 15:32:30,081 ERROR app MainThread : [<Response 115 bytes [200 OK]>]
+2022-09-01 15:33:12,410 ERROR app MainThread : 'description'
+2022-09-01 15:33:12,422 ERROR app MainThread : 'imgLink'
+2022-09-01 15:33:12,437 ERROR app MainThread : 'name'
+2022-09-01 15:33:12,453 ERROR app MainThread : <Response 117 bytes [200 OK]>
+2022-09-01 15:33:32,860 ERROR app MainThread : 'description'
+2022-09-01 15:33:32,872 ERROR app MainThread : 'imgLink'
+2022-09-01 15:33:32,884 ERROR app MainThread : 'name'
+2022-09-01 15:33:32,897 ERROR app MainThread : [<Page 9f7693d9-d808-4782-811e-5b6fc92e786c>]
+2022-09-01 15:33:32,897 ERROR app MainThread : <Response 117 bytes [200 OK]>
+2022-09-01 15:34:38,375 ERROR app MainThread : 'description'
+2022-09-01 15:34:38,386 ERROR app MainThread : 'imgLink'
+2022-09-01 15:34:38,397 ERROR app MainThread : 'name'
+2022-09-01 15:34:38,423 ERROR app MainThread : [<Page bec35caa-b40d-40ef-88e9-93aa13047565>, <Page 0cc4ed6d-3d0d-4e2b-a961-435fe1237103>, <Page 4f439c98-6647-41cc-8f1d-df566c18c803>]
+2022-09-01 15:34:38,423 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:35:35,365 ERROR app MainThread : 'description'
+2022-09-01 15:35:35,379 ERROR app MainThread : 'imgLink'
+2022-09-01 15:35:35,394 ERROR app MainThread : 'name'
+2022-09-01 15:35:35,413 ERROR app MainThread : [<Page db13e557-9dc1-4a08-bbed-e545f1c9a68b>, <Page dc9cf2b1-dd70-4ca2-8352-df7e13e925b1>, <Page 01dc8af8-5dc0-4ec6-bf5d-f768c89f7be3>]
+2022-09-01 15:35:35,414 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:37:20,729 ERROR app MainThread : 'description'
+2022-09-01 15:37:20,744 ERROR app MainThread : 'imgLink'
+2022-09-01 15:37:20,757 ERROR app MainThread : 'name'
+2022-09-01 15:37:20,778 ERROR app MainThread : [<Page e64a03b0-3e3a-4f76-bce2-8a52ab5dc8f8>, <Page adfd7617-aa27-4b5e-b506-f1a359fd2f50>, <Page 2ffe8041-8b33-4105-81f4-91f31f7b3dc1>]
+2022-09-01 15:37:20,778 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:38:01,812 ERROR app MainThread : 'description'
+2022-09-01 15:38:01,824 ERROR app MainThread : 'imgLink'
+2022-09-01 15:38:01,837 ERROR app MainThread : 'name'
+2022-09-01 15:38:01,856 ERROR app MainThread : [<Page 34120c49-9497-4452-9851-70764faec623>, <Page f482ad7e-9819-4578-ba05-49b86b899d36>, <Page e9fe2113-8eab-4f72-b151-810274f1526c>]
+2022-09-01 15:38:01,856 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:38:20,170 ERROR app MainThread : 'description'
+2022-09-01 15:38:20,183 ERROR app MainThread : 'imgLink'
+2022-09-01 15:38:20,196 ERROR app MainThread : 'name'
+2022-09-01 15:38:20,215 ERROR app MainThread : [<Page 4cbf9853-b3ba-46a4-afbc-83984c836a2e>, <Page 3293b895-f2c9-4c69-aaec-870916f10809>, <Page 1d2e274e-a2be-480b-9dc7-8428349b6a4d>]
+2022-09-01 15:38:20,216 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:46:24,978 ERROR app MainThread : 'description'
+2022-09-01 15:46:24,990 ERROR app MainThread : 'imgLink'
+2022-09-01 15:46:25,001 ERROR app MainThread : 'name'
+2022-09-01 15:46:25,017 ERROR app MainThread : [<Page df6e8d67-cc57-4332-9112-53d40be4189e>, <Page 7556bb81-1bad-407e-9ac9-ebba60e0056d>, <Page e52d376d-141a-4616-a2d1-0d5599360a79>]
+2022-09-01 15:46:25,017 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:46:25,035 ERROR app MainThread : [<Page 08e50c63-4c2a-4cb4-b3a8-7f5f7826c0b8>]
+2022-09-01 15:46:25,036 ERROR app MainThread : <Response 117 bytes [200 OK]>
+2022-09-01 15:46:59,537 ERROR app MainThread : 'description'
+2022-09-01 15:46:59,549 ERROR app MainThread : 'imgLink'
+2022-09-01 15:46:59,565 ERROR app MainThread : 'name'
+2022-09-01 15:46:59,585 ERROR app MainThread : [<Page 8c090260-eb65-40c0-bdea-9144eb067498>, <Page e86dffd9-d438-4794-9de4-57679c473803>, <Page e70beb94-6207-4a00-a143-c8d919698b68>]
+2022-09-01 15:46:59,585 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:46:59,600 ERROR app MainThread : [<Page 1cad9029-68a0-4160-8231-57d8418c6a26>]
+2022-09-01 15:46:59,600 ERROR app MainThread : <Response 117 bytes [200 OK]>
+2022-09-01 15:47:14,285 ERROR app MainThread : 'description'
+2022-09-01 15:47:14,296 ERROR app MainThread : 'imgLink'
+2022-09-01 15:47:14,307 ERROR app MainThread : 'name'
+2022-09-01 15:47:14,326 ERROR app MainThread : [<Page ce45b8c7-acf0-4a2f-9ace-8118c9eea559>, <Page c371049b-fbc7-43cf-962b-17507cf04ea6>, <Page f5165e3a-8372-4d59-a35a-96df2edbb2f6>]
+2022-09-01 15:47:14,326 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:47:14,343 ERROR app MainThread : [<Page e62dc30a-dad6-4865-bfc4-518322519eeb>]
+2022-09-01 15:47:14,343 ERROR app MainThread : <Response 117 bytes [200 OK]>
+2022-09-01 15:47:14,343 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'e62dc30a-dad6-4865-bfc4-518322519eeb'}]
+2022-09-01 15:48:03,168 ERROR app MainThread : 'description'
+2022-09-01 15:48:03,198 ERROR app MainThread : 'imgLink'
+2022-09-01 15:48:03,214 ERROR app MainThread : 'name'
+2022-09-01 15:48:03,241 ERROR app MainThread : [<Page bc421f02-feeb-4b44-a6dd-f947f4ec8897>, <Page 12f30b1a-8fb8-4ed1-b408-0af558cd5389>, <Page 3fb3a7a1-add4-4ac7-b81d-f58683fd0d13>]
+2022-09-01 15:48:03,241 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:48:03,261 ERROR app MainThread : [<Page 9e740836-51c3-468a-9579-811d6b2503d8>, <Page 6616d8c9-1e3b-40bd-8606-c38ff7958dd2>, <Page a5b73be8-0d3e-4fc6-9395-222d2ae191a1>]
+2022-09-01 15:48:03,262 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:48:03,262 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '9e740836-51c3-468a-9579-811d6b2503d8'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '6616d8c9-1e3b-40bd-8606-c38ff7958dd2'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'a5b73be8-0d3e-4fc6-9395-222d2ae191a1'}]
+2022-09-01 15:49:13,693 ERROR app MainThread : 'description'
+2022-09-01 15:49:13,707 ERROR app MainThread : 'imgLink'
+2022-09-01 15:49:13,718 ERROR app MainThread : 'name'
+2022-09-01 15:49:13,742 ERROR app MainThread : [<Page e7e812dc-38f7-4d33-9100-2687ab15468c>, <Page 237f179b-9492-400d-8db3-00c99f1291fd>, <Page a5a395c3-821c-4589-8b85-b073ef36eeae>]
+2022-09-01 15:49:13,742 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:49:13,763 ERROR app MainThread : [<Page b9ed80cf-4c03-4110-b54f-84c3fa91fa60>, <Page 5d39ab15-bbd4-42bb-8eb9-0958f0e72559>, <Page 665264c9-d579-4081-a3ab-5da1ab5c9c3d>]
+2022-09-01 15:49:13,763 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:49:13,763 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'b9ed80cf-4c03-4110-b54f-84c3fa91fa60'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '5d39ab15-bbd4-42bb-8eb9-0958f0e72559'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '665264c9-d579-4081-a3ab-5da1ab5c9c3d'}]
+2022-09-01 15:50:04,600 ERROR app MainThread : 'description'
+2022-09-01 15:50:04,620 ERROR app MainThread : 'imgLink'
+2022-09-01 15:50:04,641 ERROR app MainThread : 'name'
+2022-09-01 15:50:04,668 ERROR app MainThread : [<Page 195330f3-a96e-44fe-96f0-137bc078ca59>, <Page 73ea696e-5755-422e-adaa-2e9c53f301fd>, <Page ded36eb3-1136-40b0-995b-621889117cf4>]
+2022-09-01 15:50:04,668 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:50:04,693 ERROR app MainThread : [<Page 911ff634-b34b-4a5e-a203-d51e488f9db1>, <Page 9bc45334-d47e-44f2-8557-da90374a9806>, <Page 3251229f-b384-44f2-9a2f-56241f755efe>]
+2022-09-01 15:50:04,694 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:50:04,694 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '911ff634-b34b-4a5e-a203-d51e488f9db1'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '9bc45334-d47e-44f2-8557-da90374a9806'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '3251229f-b384-44f2-9a2f-56241f755efe'}]
+2022-09-01 15:52:17,353 ERROR app MainThread : 'description'
+2022-09-01 15:52:17,365 ERROR app MainThread : 'imgLink'
+2022-09-01 15:52:17,377 ERROR app MainThread : 'name'
+2022-09-01 15:52:17,396 ERROR app MainThread : [<Page b6c0ebad-6bc8-4e20-81ac-67a7c198950c>, <Page 17f3f627-72a6-4856-9994-07ada1c54854>, <Page a7d18505-5228-4ee4-a87e-970678dd5c28>]
+2022-09-01 15:52:17,396 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:52:17,420 ERROR app MainThread : [<Page b4e80117-cfd2-4cbd-9312-b2c995374f98>, <Page 06a269a7-5d1f-4970-b834-81fd14993efd>, <Page 1d6ec87b-9f0c-471b-aa91-7ac0f51f59bb>]
+2022-09-01 15:52:17,420 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:52:17,421 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'b4e80117-cfd2-4cbd-9312-b2c995374f98'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '06a269a7-5d1f-4970-b834-81fd14993efd'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '1d6ec87b-9f0c-471b-aa91-7ac0f51f59bb'}]
+2022-09-01 15:53:02,831 ERROR app MainThread : 'description'
+2022-09-01 15:53:02,845 ERROR app MainThread : 'imgLink'
+2022-09-01 15:53:02,857 ERROR app MainThread : 'name'
+2022-09-01 15:53:02,880 ERROR app MainThread : [<Page 3fa9ed18-f637-4906-a1f2-f825554e78c8>, <Page b33a738b-fa43-469e-8f1d-4e55d779ff3e>, <Page 393e6203-5c6a-4142-89b9-6b6d3cd150f0>]
+2022-09-01 15:53:02,881 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:53:02,906 ERROR app MainThread : [<Page 0c5342ff-d45e-4d10-bf45-6c4fee7da503>, <Page b34806f5-96bf-4913-be22-785604070e9e>, <Page 8dba060f-5c11-4c14-8416-4ceec55b835b>]
+2022-09-01 15:53:02,906 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:53:02,907 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '0c5342ff-d45e-4d10-bf45-6c4fee7da503'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'b34806f5-96bf-4913-be22-785604070e9e'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '8dba060f-5c11-4c14-8416-4ceec55b835b'}]
+2022-09-01 15:53:12,681 ERROR app MainThread : 'description'
+2022-09-01 15:53:12,693 ERROR app MainThread : 'imgLink'
+2022-09-01 15:53:12,704 ERROR app MainThread : 'name'
+2022-09-01 15:53:12,723 ERROR app MainThread : [<Page cc5a73ad-79f9-4fa9-95e0-8c4c934f11e9>, <Page d051859d-f265-417e-9a3d-59419e07c90a>, <Page ea374a22-1bce-4ffe-a193-2c42641eb478>]
+2022-09-01 15:53:12,723 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:53:12,747 ERROR app MainThread : [<Page 472d2b2f-ffbc-4fc2-82f7-8b062f307008>, <Page e18330c1-8e5d-47a5-9b0d-1b0d08d523a1>, <Page aff52e30-8e35-4b2b-99dd-4928729b3398>]
+2022-09-01 15:53:12,747 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:53:12,748 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '472d2b2f-ffbc-4fc2-82f7-8b062f307008'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'e18330c1-8e5d-47a5-9b0d-1b0d08d523a1'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'aff52e30-8e35-4b2b-99dd-4928729b3398'}]
+2022-09-01 15:56:40,048 ERROR app MainThread : 'description'
+2022-09-01 15:56:40,060 ERROR app MainThread : 'imgLink'
+2022-09-01 15:56:40,071 ERROR app MainThread : 'name'
+2022-09-01 15:56:40,092 ERROR app MainThread : [<Page c8ee12aa-22c6-42d8-a98c-be16346d6bdd>, <Page 2b1a77f7-fb3f-490e-8bd3-1055d8b4f8bb>, <Page f9344cfc-9b45-429c-a582-d51be4f6bba1>]
+2022-09-01 15:56:40,092 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:56:40,118 ERROR app MainThread : [<Page b8c68039-7a80-480e-93b2-9d000eaf08f2>, <Page 078e849f-f85d-430c-9e54-eb6dc8365baa>, <Page 63f748e6-69e9-4379-97d6-29bbf1003c21>]
+2022-09-01 15:56:40,119 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:56:40,119 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'b8c68039-7a80-480e-93b2-9d000eaf08f2'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '078e849f-f85d-430c-9e54-eb6dc8365baa'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '63f748e6-69e9-4379-97d6-29bbf1003c21'}]
+2022-09-01 15:56:40,145 ERROR app MainThread : [<Page 3e98e47c-9018-4bdc-8265-5a97c214d95b>, <Page 082f3103-540a-478e-afc3-2dc6d6b78022>, <Page 24bc89cb-8d14-47ee-b597-3ceea6f753e9>]
+2022-09-01 15:56:40,145 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:56:40,145 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '3e98e47c-9018-4bdc-8265-5a97c214d95b'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '082f3103-540a-478e-afc3-2dc6d6b78022'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '24bc89cb-8d14-47ee-b597-3ceea6f753e9'}]
+2022-09-01 15:57:57,586 ERROR app MainThread : 'description'
+2022-09-01 15:57:57,599 ERROR app MainThread : 'imgLink'
+2022-09-01 15:57:57,610 ERROR app MainThread : 'name'
+2022-09-01 15:57:57,628 ERROR app MainThread : [<Page 1961db86-83bd-41fb-958a-75501bd01ac7>, <Page e19a3896-eff9-43e7-b74a-71c3c98952a2>, <Page 649ff93a-797e-41bc-a3d0-cca67e4a16e5>]
+2022-09-01 15:57:57,628 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:57:57,648 ERROR app MainThread : [<Page 3b500da8-893b-4336-8f9c-e11f64733687>, <Page 5541989c-f93d-4d07-9bf2-5876b730364a>, <Page 98f95d70-34d4-47c0-bc8b-62893e52283a>]
+2022-09-01 15:57:57,648 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:57:57,649 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '3b500da8-893b-4336-8f9c-e11f64733687'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '5541989c-f93d-4d07-9bf2-5876b730364a'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '98f95d70-34d4-47c0-bc8b-62893e52283a'}]
+2022-09-01 15:57:57,677 ERROR app MainThread : [<Page 9c2cf48b-f498-4d65-95ba-23e538ff608d>, <Page a7aef3ce-4852-4d86-acfb-974de5bbb13b>, <Page 30ed3779-21ae-4b90-9469-3d56d599fa84>]
+2022-09-01 15:57:57,677 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:57:57,678 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '9c2cf48b-f498-4d65-95ba-23e538ff608d'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'a7aef3ce-4852-4d86-acfb-974de5bbb13b'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '30ed3779-21ae-4b90-9469-3d56d599fa84'}]
+2022-09-01 15:58:20,595 ERROR app MainThread : 'description'
+2022-09-01 15:58:20,609 ERROR app MainThread : 'imgLink'
+2022-09-01 15:58:20,620 ERROR app MainThread : 'name'
+2022-09-01 15:58:20,637 ERROR app MainThread : [<Page 048def39-2aae-4819-9587-75a182789ae0>, <Page 5913debd-f67f-4dca-a96b-804bc8f6dc21>, <Page 3ec0abf9-e193-4b1f-ae03-933ce61cde1c>]
+2022-09-01 15:58:20,637 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:58:20,659 ERROR app MainThread : [<Page 7c44a6c3-af6c-495b-b6ea-a0db8f1a11c4>, <Page 850ff617-fc3c-49b9-8778-2280dfc8c867>, <Page 990a5d94-c22c-419d-b669-74b24ab4a826>]
+2022-09-01 15:58:20,659 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:58:20,659 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '7c44a6c3-af6c-495b-b6ea-a0db8f1a11c4'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '850ff617-fc3c-49b9-8778-2280dfc8c867'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '990a5d94-c22c-419d-b669-74b24ab4a826'}]
+2022-09-01 15:58:20,691 ERROR app MainThread : [<Page 48b9d15d-f8ca-43e3-bab4-5db2a5b0c26a>, <Page 4aeb0c1a-9e87-4868-830c-c2609041f4ef>, <Page 1d4ce96c-52ae-470b-9fcd-6856b0c6d7a2>]
+2022-09-01 15:58:20,691 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:58:20,691 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '48b9d15d-f8ca-43e3-bab4-5db2a5b0c26a'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '4aeb0c1a-9e87-4868-830c-c2609041f4ef'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '1d4ce96c-52ae-470b-9fcd-6856b0c6d7a2'}]
+2022-09-01 15:59:03,405 ERROR app MainThread : 'description'
+2022-09-01 15:59:03,418 ERROR app MainThread : 'imgLink'
+2022-09-01 15:59:03,431 ERROR app MainThread : 'name'
+2022-09-01 15:59:03,451 ERROR app MainThread : [<Page d27de5d0-b562-4667-ac20-62a410766404>, <Page 60cf2534-40e7-4798-a1a8-f4f64b593605>, <Page 335f38ec-cbd2-427c-a29b-47d3d57168e0>]
+2022-09-01 15:59:03,451 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:59:03,474 ERROR app MainThread : [<Page 1ba40862-255c-4f0b-aa41-a7bb7ad40e49>, <Page cf1bd600-9cf4-4262-b715-aa9bd56995fa>, <Page 7e9a9b71-901e-4890-b032-9b179b3b2cc4>]
+2022-09-01 15:59:03,474 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 15:59:03,474 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '1ba40862-255c-4f0b-aa41-a7bb7ad40e49'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'cf1bd600-9cf4-4262-b715-aa9bd56995fa'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '7e9a9b71-901e-4890-b032-9b179b3b2cc4'}]
+2022-09-01 15:59:03,515 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiI3Yzk2NmNkZS04MjJhLTQxMmEtOWZiMi0zMzUyOTFhNTdiMmUiLCJleHAiOjE2NjIwNDc5NDN9.8zliLj-GSOa2A51_LOxwEoJMFQ2DOKivYWgTuLiPVR4'}
+2022-09-01 16:01:00,190 ERROR app MainThread : 'description'
+2022-09-01 16:01:00,203 ERROR app MainThread : 'imgLink'
+2022-09-01 16:01:00,217 ERROR app MainThread : 'name'
+2022-09-01 16:01:00,237 ERROR app MainThread : [<Page d5d9a736-4374-436b-85e4-722e5350a820>, <Page fe61a8d7-95cc-4260-9e38-6cd3458a1b62>, <Page 40f05abb-8b80-476a-b50f-a9e58e9e6854>]
+2022-09-01 16:01:00,237 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:01:00,259 ERROR app MainThread : [<Page ccb71e24-4b7b-40b0-b91d-9b750719fce2>, <Page f0504b14-0be3-4e21-b5af-a4d64a0ffc13>, <Page 8b84896c-0f3e-48b7-8e27-43a90aaabbf3>]
+2022-09-01 16:01:00,259 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:01:00,260 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'ccb71e24-4b7b-40b0-b91d-9b750719fce2'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'f0504b14-0be3-4e21-b5af-a4d64a0ffc13'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '8b84896c-0f3e-48b7-8e27-43a90aaabbf3'}]
+2022-09-01 16:01:00,294 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiIxZTU1YzJmMS1kYTg5LTQ2ZjQtODNjMS0xMjBiYmUyZjEwNTUiLCJleHAiOjE2NjIwNDgwNjB9.PZd7KByUu0Q4721TNvn5iuSeTvnrpPGZPt7s6ECLqs8'}
+2022-09-01 16:02:26,845 ERROR app MainThread : 'description'
+2022-09-01 16:02:26,861 ERROR app MainThread : 'imgLink'
+2022-09-01 16:02:26,873 ERROR app MainThread : 'name'
+2022-09-01 16:02:26,894 ERROR app MainThread : [<Page 18250554-9e09-47fe-b372-2aedbff96246>, <Page 4a0c4665-1757-465d-bee0-28b9608b4459>, <Page 43d5b750-e228-481f-bd5f-21e36e88f576>]
+2022-09-01 16:02:26,895 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:02:26,919 ERROR app MainThread : [<Page 79485954-c435-4e62-9fc2-d33cb34408d8>, <Page 43867e8c-0ddd-4873-8979-2ec040babb55>, <Page 7cda2dc8-7e20-414d-a4bc-9769a6b4ceaa>]
+2022-09-01 16:02:26,919 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:02:26,919 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '79485954-c435-4e62-9fc2-d33cb34408d8'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '43867e8c-0ddd-4873-8979-2ec040babb55'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '7cda2dc8-7e20-414d-a4bc-9769a6b4ceaa'}]
+2022-09-01 16:02:26,951 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiJjMGM1NzlhNi05MzExLTQwZjMtYjI3YS1mOGI1ODM0MTFmYjQiLCJleHAiOjE2NjIwNDgxNDZ9.u8fyDHT6XbrBnQPMDBVhf5lqidPLrrN3gEM7rRFvj80'}
+2022-09-01 16:04:02,233 ERROR app MainThread : 'description'
+2022-09-01 16:04:02,245 ERROR app MainThread : 'imgLink'
+2022-09-01 16:04:02,265 ERROR app MainThread : 'name'
+2022-09-01 16:04:02,284 ERROR app MainThread : [<Page 3a04ebd9-779d-447e-ac1d-1cfef9fe48f7>, <Page 7ea41f37-237a-450f-9aca-50d7f3e7a6d2>, <Page a8baa5bd-ad3b-411a-8053-42c2361ff607>]
+2022-09-01 16:04:02,285 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:04:02,305 ERROR app MainThread : [<Page 51123a65-cfc5-408e-acf4-f914692af06c>, <Page 0cf0db9f-a968-429a-b02f-ba771c56d0f2>, <Page 6f85b278-43af-469f-b47d-97530a6d98cf>]
+2022-09-01 16:04:02,306 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:04:02,306 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '51123a65-cfc5-408e-acf4-f914692af06c'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '0cf0db9f-a968-429a-b02f-ba771c56d0f2'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '6f85b278-43af-469f-b47d-97530a6d98cf'}]
+2022-09-01 16:04:02,336 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiJiOWNlNDg4Yi01ZTQ4LTQxMTctOWRmZi02Mzc3OTY5N2MzMDYiLCJleHAiOjE2NjIwNDgyNDJ9.fNC_yBlHiUJV9Gnr71pmRgk-m3J-igs8qPP03_Hkk4U'}
+2022-09-01 16:04:34,479 ERROR app MainThread : 'description'
+2022-09-01 16:04:34,490 ERROR app MainThread : 'imgLink'
+2022-09-01 16:04:34,506 ERROR app MainThread : 'name'
+2022-09-01 16:04:34,531 ERROR app MainThread : [<Page d1bce762-6654-420c-a60d-bd45deb42501>, <Page ba2bc405-db02-4c9a-a41e-bb504835f647>, <Page 3a16dc9a-4c76-4a0f-b9e9-52b5f531a17a>]
+2022-09-01 16:04:34,531 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:04:34,555 ERROR app MainThread : [<Page 1c9b357f-bcfc-4b41-9429-35c4c3bc0499>, <Page f4be50a2-8e06-4a20-9376-8ca4b4b4e3a1>, <Page 0e773450-bacd-4f1a-ad5b-08fe4298f1be>]
+2022-09-01 16:04:34,555 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:04:34,555 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '1c9b357f-bcfc-4b41-9429-35c4c3bc0499'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'f4be50a2-8e06-4a20-9376-8ca4b4b4e3a1'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '0e773450-bacd-4f1a-ad5b-08fe4298f1be'}]
+2022-09-01 16:04:34,584 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiJjNWZjMjlmMy1iODdmLTRhYzQtODgyMS02MzY2YmRhNzc5ZDgiLCJleHAiOjE2NjIwNDgyNzR9.0Ay7oMymEYtK0wh-2x_zgpTDGuHqBcxquOJfhUiTlU4'}
+2022-09-01 16:05:11,399 ERROR app MainThread : 'description'
+2022-09-01 16:05:11,442 ERROR app MainThread : 'imgLink'
+2022-09-01 16:05:11,455 ERROR app MainThread : 'name'
+2022-09-01 16:05:11,492 ERROR app MainThread : [<Page 33659a96-96fe-4f4a-81be-60b278ab9800>, <Page b5a8a9f4-7cbc-4ce6-8b52-81ce895d07d5>, <Page 48773c93-4c76-49ea-b54f-842291bd4917>]
+2022-09-01 16:05:11,493 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:05:11,518 ERROR app MainThread : [<Page 80858cf1-bb6b-41c1-8e6f-3f35b0392c9a>, <Page c23ad168-b277-4fa0-8764-88561f7e18e2>, <Page ca35f805-a5b9-43d8-9e98-6322fab61eb0>]
+2022-09-01 16:05:11,518 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:05:11,518 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '80858cf1-bb6b-41c1-8e6f-3f35b0392c9a'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'c23ad168-b277-4fa0-8764-88561f7e18e2'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'ca35f805-a5b9-43d8-9e98-6322fab61eb0'}]
+2022-09-01 16:05:11,553 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiI0OWViZWZmZC1iNjgwLTRiNTQtOWFiZS01NmMwMjkzMDIzNzMiLCJleHAiOjE2NjIwNDgzMTF9.0JqLIVEMZPbSVywn2dsjoN0Pq8Tn0MSCyop9R7ilFsE'}
+2022-09-01 16:06:31,902 ERROR app MainThread : 'description'
+2022-09-01 16:06:31,915 ERROR app MainThread : 'imgLink'
+2022-09-01 16:06:31,928 ERROR app MainThread : 'name'
+2022-09-01 16:06:31,986 ERROR app MainThread : [<Page 7000871b-c124-4ae0-9eb9-eb053b7e05bb>, <Page 900a9b66-ee47-4983-9d11-102d053074d7>, <Page 43c0ee15-f0b7-4e13-a6a3-21b3f872f8eb>]
+2022-09-01 16:06:31,986 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:06:32,023 ERROR app MainThread : [<Page b731848b-7a10-4033-a0cd-481862da0fbd>, <Page 587675fc-639a-422b-b509-10c97bcbbf4c>, <Page e706c0e2-1062-409a-821d-78506a9b13b2>]
+2022-09-01 16:06:32,024 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:06:32,024 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'b731848b-7a10-4033-a0cd-481862da0fbd'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '587675fc-639a-422b-b509-10c97bcbbf4c'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'e706c0e2-1062-409a-821d-78506a9b13b2'}]
+2022-09-01 16:06:32,052 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiI4M2Y1NWEyNi1iNWNjLTRlNGMtYjljYi1lYzYxOWY5Y2IxZmEiLCJleHAiOjE2NjIwNDgzOTJ9.UaVbr8E035mATmQUn1ayy8YhQ4zBU_dBzDU-8qG5dWQ'}
+2022-09-01 16:07:59,637 ERROR app MainThread : 'description'
+2022-09-01 16:07:59,649 ERROR app MainThread : 'imgLink'
+2022-09-01 16:07:59,660 ERROR app MainThread : 'name'
+2022-09-01 16:07:59,680 ERROR app MainThread : [<Page a8ac8734-f5eb-48e9-b00e-ede9d0121e05>, <Page fa51cea7-5750-4525-9601-3526897eb01d>, <Page 5b4420e9-f7a2-4e1a-b1bb-0e37bce9449f>]
+2022-09-01 16:07:59,680 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:07:59,703 ERROR app MainThread : [<Page 41bce28c-048a-4a74-9f81-0ddaea306bf7>, <Page 9f535d9e-cc09-46c7-bfae-9dcb7fff7f79>, <Page 7e5f568f-8531-4d67-a0b7-2c4fbd2e47c3>]
+2022-09-01 16:07:59,703 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:07:59,704 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '41bce28c-048a-4a74-9f81-0ddaea306bf7'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '9f535d9e-cc09-46c7-bfae-9dcb7fff7f79'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '7e5f568f-8531-4d67-a0b7-2c4fbd2e47c3'}]
+2022-09-01 16:07:59,737 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiI4ZWI4MjgyNy02YzI3LTQ4MmYtYTk3Yi1hZjc1OGMzOGQ5YTkiLCJleHAiOjE2NjIwNDg0Nzl9.Fplg30GXOZn1tkrCcNJdBIHsyo9GDVi4MGwxiYbY-X4'}
+2022-09-01 16:08:21,869 ERROR app MainThread : 'description'
+2022-09-01 16:08:21,882 ERROR app MainThread : 'imgLink'
+2022-09-01 16:08:21,897 ERROR app MainThread : 'name'
+2022-09-01 16:08:21,919 ERROR app MainThread : [<Page 62708187-e10e-4182-8daa-981865050ad2>, <Page 8c733481-823e-409f-afed-e2bcb66ec87b>, <Page a51cc2cf-5ca3-44dc-aa71-bbde112ced29>]
+2022-09-01 16:08:21,920 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:08:21,945 ERROR app MainThread : [<Page 50e8a56f-31cc-4cd8-b054-efaa36e30e79>, <Page 2b294ae1-56fd-4ad3-b245-21d29dd2c0d5>, <Page 401e8217-1ecc-45f8-a22b-009e2bc8fb50>]
+2022-09-01 16:08:21,946 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-01 16:08:21,946 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '50e8a56f-31cc-4cd8-b054-efaa36e30e79'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '2b294ae1-56fd-4ad3-b245-21d29dd2c0d5'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '401e8217-1ecc-45f8-a22b-009e2bc8fb50'}]
+2022-09-01 16:08:21,973 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiI5MWFkZmQ2My0zNTc4LTQzOTctODM4Yi01YzI0ZDYwMmQzZDYiLCJleHAiOjE2NjIwNDg1MDF9.Aj5FTMvG1w4Wxsi2bC2pPtO-T8PMsLTCo5l-I0J0aSc'}
+2022-09-02 08:05:38,790 ERROR app MainThread : 'description'
+2022-09-02 08:05:38,803 ERROR app MainThread : 'imgLink'
+2022-09-02 08:05:38,814 ERROR app MainThread : 'name'
+2022-09-02 08:05:38,832 ERROR app MainThread : [<Page 70873643-0f7f-4bb4-ae9a-0708cab60e67>, <Page cb686fa1-a20d-46b2-945f-00bad1b38e76>, <Page ac6335f5-1832-4753-a551-bdc4d609800e>]
+2022-09-02 08:05:38,832 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-02 08:05:38,854 ERROR app MainThread : [<Page a3c2f586-ae46-42cf-ac2c-9f592ecea86c>, <Page 6277bc8a-a4e7-4220-bde1-f3bdd8825bec>, <Page 16f66d0d-fbf8-4ea5-bbcf-5db0d69e834d>]
+2022-09-02 08:05:38,854 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-02 08:05:38,855 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'a3c2f586-ae46-42cf-ac2c-9f592ecea86c'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '6277bc8a-a4e7-4220-bde1-f3bdd8825bec'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '16f66d0d-fbf8-4ea5-bbcf-5db0d69e834d'}]
+2022-09-02 08:05:38,879 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiI1MzJhMDUzYi0zMzY0LTRlNDEtYTAzZi03ZDM4ZmRmOTRlNWMiLCJleHAiOjE2NjIxMDU5Mzh9.K6pEVm8I72MVPzDcCU1zqPZZwFcztwxF7_5f4B9zRUY'}
+2022-09-02 08:06:21,721 ERROR app MainThread : 'description'
+2022-09-02 08:06:21,732 ERROR app MainThread : 'imgLink'
+2022-09-02 08:06:21,742 ERROR app MainThread : 'name'
+2022-09-02 08:06:21,761 ERROR app MainThread : [<Page 0a433224-8b9c-425c-9701-f4caf3a776e4>, <Page fd5b0517-3bc6-4c71-9388-3958cbce81e6>, <Page a2e16faf-0eef-46a0-bde7-bf9bbfc3d868>]
+2022-09-02 08:06:21,761 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-02 08:06:21,782 ERROR app MainThread : [<Page 4ef8855b-841f-4cb9-ad9a-1efd7a01ee11>, <Page 28de140e-3a5a-4122-afac-77a620517708>, <Page 66311673-9aba-4ea6-9d20-5c8acc03bfcf>]
+2022-09-02 08:06:21,782 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-02 08:06:21,783 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '4ef8855b-841f-4cb9-ad9a-1efd7a01ee11'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '28de140e-3a5a-4122-afac-77a620517708'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '66311673-9aba-4ea6-9d20-5c8acc03bfcf'}]
+2022-09-02 08:06:21,807 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiJhMTYyYTVkYi05NzZiLTRjZTktODViZi01NWYwMDI3NmZhNjIiLCJleHAiOjE2NjIxMDU5ODF9.AxMOvVwpkHyp4MCV2Mk0uFJiFEFpjRUClygtrXDT0JI'}
+2022-09-02 08:08:48,379 ERROR app MainThread : 'description'
+2022-09-02 08:08:48,392 ERROR app MainThread : 'imgLink'
+2022-09-02 08:08:48,403 ERROR app MainThread : 'name'
+2022-09-02 08:08:48,421 ERROR app MainThread : [<Page 0ee25c1c-96b6-4246-8014-f363fb5bde00>, <Page 15a2c977-3fc2-48dd-b09f-f381b20af061>, <Page dee69d6c-4991-4dbd-a200-6a0850cd171d>]
+2022-09-02 08:08:48,422 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-02 08:08:48,445 ERROR app MainThread : [<Page c5c37f2e-d48c-43a0-953c-ea74e2693dcd>, <Page f6378ab5-9a08-40a0-9102-4876a4479d71>, <Page 541cbc9a-a5b6-4862-acc7-7c1de2a5c865>]
+2022-09-02 08:08:48,445 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-02 08:08:48,445 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'c5c37f2e-d48c-43a0-953c-ea74e2693dcd'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'f6378ab5-9a08-40a0-9102-4876a4479d71'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '541cbc9a-a5b6-4862-acc7-7c1de2a5c865'}]
+2022-09-02 08:08:48,469 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiI5ZDUxYTJhNy02MjYwLTQxMGUtOGEyZC1hYmQyMTliY2ExMDQiLCJleHAiOjE2NjIxMDYxMjh9.YOQkKKYHkCdj6bdLCU27WtgyrVtV6RNMJMHuMx4Em5c'}
+2022-09-05 13:17:01,397 ERROR app MainThread : 'description'
+2022-09-05 13:17:01,411 ERROR app MainThread : 'imgLink'
+2022-09-05 13:17:01,421 ERROR app MainThread : 'name'
+2022-09-05 13:17:01,439 ERROR app MainThread : [<Page 317d88ed-e084-4b7a-b698-8e1847cf8395>, <Page deaac06b-ce93-4296-9d1a-0ea2bdafe919>, <Page 2d9f207f-417d-4aea-b6bd-c9c2a1885ac6>]
+2022-09-05 13:17:01,440 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-05 13:17:01,462 ERROR app MainThread : [<Page b3446e1b-a7ad-4739-8fb3-3674e911e9cd>, <Page 50e4c4f2-e23c-452e-accf-830bd1db295a>, <Page 9d36b58a-700d-4168-b968-9888bab2511c>]
+2022-09-05 13:17:01,462 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-05 13:17:01,462 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'b3446e1b-a7ad-4739-8fb3-3674e911e9cd'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '50e4c4f2-e23c-452e-accf-830bd1db295a'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '9d36b58a-700d-4168-b968-9888bab2511c'}]
+2022-09-05 13:17:01,487 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiJiZjg3ZjIyOS1iYjBjLTQ4NjUtYTZmZC00ZWY1ZDI5OWU3ZGYiLCJleHAiOjE2NjIzODM4MjF9.gSOYAKLbhGOaG75v_fuLeuKtwezl9qkISv0OvwQV4VU'}
+2022-09-05 13:21:52,417 ERROR app MainThread : 'description'
+2022-09-05 13:21:52,429 ERROR app MainThread : 'imgLink'
+2022-09-05 13:21:52,440 ERROR app MainThread : 'name'
+2022-09-05 13:21:52,458 ERROR app MainThread : [<Page f5bf5887-25da-44b4-b4f9-acb96374016e>, <Page 5d084230-3263-4480-a678-cecc8133ccae>, <Page e648835c-4818-4f2d-91fd-4f60fd9531a3>]
+2022-09-05 13:21:52,458 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-05 13:21:52,479 ERROR app MainThread : [<Page a3b08694-9cd6-4068-9043-0d6a0b5f2a5d>, <Page a822bd57-7bcd-4ded-80f3-9afdf903b6c4>, <Page cab09c8b-4806-4ca7-85b6-548681c18714>]
+2022-09-05 13:21:52,479 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-05 13:21:52,479 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'a3b08694-9cd6-4068-9043-0d6a0b5f2a5d'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'a822bd57-7bcd-4ded-80f3-9afdf903b6c4'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'cab09c8b-4806-4ca7-85b6-548681c18714'}]
+2022-09-05 13:21:52,504 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiI4OWFmMThhZC05YmVmLTQ3NjgtOTlkMC02MDRiYWNiZDVjMTgiLCJleHAiOjE2NjIzODQxMTJ9.qUPGNEvgAyAGetkehyYZmSAm4iDjmgtvjOBZVgU7zek'}
+2022-09-05 13:23:08,312 ERROR app MainThread : 'description'
+2022-09-05 13:23:08,324 ERROR app MainThread : 'imgLink'
+2022-09-05 13:23:08,334 ERROR app MainThread : 'name'
+2022-09-05 13:23:08,353 ERROR app MainThread : [<Page 5720ab59-db79-4410-8983-3152413e3001>, <Page 9c3538d2-3fde-4ad7-b49f-94e672c58618>, <Page d3dfb525-62eb-419b-bb93-5ff3bc55e586>]
+2022-09-05 13:23:08,353 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-05 13:23:08,374 ERROR app MainThread : [<Page e9f6ecd4-281d-4958-8be8-17528938ede3>, <Page 43fd1143-1fc1-4d51-a383-892889182cdb>, <Page 567c8cff-80f3-4a5d-a772-5fae4275698b>]
+2022-09-05 13:23:08,374 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-05 13:23:08,374 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'e9f6ecd4-281d-4958-8be8-17528938ede3'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '43fd1143-1fc1-4d51-a383-892889182cdb'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '567c8cff-80f3-4a5d-a772-5fae4275698b'}]
+2022-09-05 13:23:08,399 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiJlNWFlZjFlNC0yNDVjLTQ1ZmEtODA3ZS04NGJiOTEwZjAyMjQiLCJleHAiOjE2NjIzODQxODh9.ysTYdUXZr05A6Fjoqy7FQHvyo8cISqqaCheQtCKVjZc'}
+2022-09-05 13:25:04,312 ERROR app MainThread : 'description'
+2022-09-05 13:25:04,323 ERROR app MainThread : 'imgLink'
+2022-09-05 13:25:04,334 ERROR app MainThread : 'name'
+2022-09-05 13:25:04,349 ERROR app MainThread : [<Page 500d71b7-b13f-4853-8e9a-72b4aa6f2980>, <Page e8b8ce84-e20f-49d6-a1aa-3c2de6fc0992>, <Page 9b805f47-fd97-4113-a895-d830068dc1f2>]
+2022-09-05 13:25:04,350 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-05 13:25:04,372 ERROR app MainThread : [<Page 0d727f17-8e97-4f35-8b83-0c5dd98c7a48>, <Page 0bce2c9c-d12e-4338-b4ef-ccddfb22fbf0>, <Page d5a592db-ac87-4bae-a1fe-b066e03635c7>]
+2022-09-05 13:25:04,372 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-05 13:25:04,373 ERROR app MainThread : [{'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '0d727f17-8e97-4f35-8b83-0c5dd98c7a48'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': '0bce2c9c-d12e-4338-b4ef-ccddfb22fbf0'}, {'description': 'test', 'imgLink': 'das ist mein Link', 'name': 'name', 'pageID': 'd5a592db-ac87-4bae-a1fe-b066e03635c7'}]
+2022-09-05 13:25:04,397 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiIwZDk2NWU4Ny1hNGEwLTRlMjEtOTg1NS0wYjE4MDUzY2Y1NWYiLCJleHAiOjE2NjIzODQzMDR9.cGYusxm2E6kgpi7wugUeCaNTGoOITbI8uRvWILrBqdg'}
+2022-09-05 13:25:58,354 ERROR app MainThread : 'description'
+2022-09-05 13:25:58,366 ERROR app MainThread : 'imgLink'
+2022-09-05 13:25:58,377 ERROR app MainThread : 'name'
+2022-09-05 13:25:58,395 ERROR app MainThread : [<Page 77e158fe-026d-4337-8487-e80f082f3e80>, <Page d55a1f2e-8f48-409c-8cc9-76292f1db91e>, <Page 8271cf6c-e75d-45ad-94ed-a286c58483b4>]
+2022-09-05 13:25:58,395 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-05 13:25:58,418 ERROR app MainThread : [<Page f4753668-81b2-47a6-8861-52bc867afb8e>, <Page debf78ff-493a-4a06-abbe-ebd085bfe1ac>, <Page 1a2b1357-6f47-49d7-b3da-4c9c28985adf>]
+2022-09-05 13:25:58,418 ERROR app MainThread : <Response 347 bytes [200 OK]>
+2022-09-05 13:26:38,078 ERROR app MainThread : 'description'
+2022-09-05 13:26:38,090 ERROR app MainThread : 'imgLink'
+2022-09-05 13:26:38,101 ERROR app MainThread : 'name'
+2022-09-05 13:27:16,414 ERROR app MainThread : 'description'
+2022-09-05 13:27:16,425 ERROR app MainThread : 'imgLink'
+2022-09-05 13:27:16,435 ERROR app MainThread : 'name'
+2022-09-05 13:28:10,000 ERROR app MainThread : 'description'
+2022-09-05 13:28:10,011 ERROR app MainThread : 'imgLink'
+2022-09-05 13:28:10,022 ERROR app MainThread : 'name'
+2022-09-05 13:30:46,169 ERROR app MainThread : 'description'
+2022-09-05 13:30:46,180 ERROR app MainThread : 'imgLink'
+2022-09-05 13:30:46,191 ERROR app MainThread : 'name'
+2022-09-05 13:31:52,146 ERROR app MainThread : 'description'
+2022-09-05 13:31:52,157 ERROR app MainThread : 'imgLink'
+2022-09-05 13:31:52,167 ERROR app MainThread : 'name'
+2022-09-05 13:32:26,604 ERROR app MainThread : 'description'
+2022-09-05 13:32:26,615 ERROR app MainThread : 'imgLink'
+2022-09-05 13:32:26,626 ERROR app MainThread : 'name'
+2022-09-05 13:32:52,216 ERROR app MainThread : 'description'
+2022-09-05 13:32:52,228 ERROR app MainThread : 'imgLink'
+2022-09-05 13:32:52,239 ERROR app MainThread : 'name'
+2022-09-05 13:32:52,338 ERROR app MainThread : {'message': 'There is no user account for the entered email address!'}
+2022-09-05 13:33:55,911 ERROR app MainThread : 'description'
+2022-09-05 13:33:55,924 ERROR app MainThread : 'imgLink'
+2022-09-05 13:33:55,934 ERROR app MainThread : 'name'
+2022-09-05 13:33:56,042 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiI5NTc1ZTAwMi02MDM2LTQ3M2UtYmU3Ny05YzZiZDUxMjM2ZDMiLCJleHAiOjE2NjIzODQ4MzZ9.dI_iq-kHM1aujpVm9OmRsSu5QOvJ5ujFovac_2RfEZc'}
+2022-09-05 13:34:57,224 ERROR app MainThread : 'description'
+2022-09-05 13:34:57,237 ERROR app MainThread : 'imgLink'
+2022-09-05 13:34:57,248 ERROR app MainThread : 'name'
+2022-09-05 13:35:11,454 ERROR app MainThread : 'description'
+2022-09-05 13:35:11,466 ERROR app MainThread : 'imgLink'
+2022-09-05 13:35:11,477 ERROR app MainThread : 'name'
+2022-09-05 13:37:31,977 ERROR app MainThread : 'description'
+2022-09-05 13:37:31,988 ERROR app MainThread : 'imgLink'
+2022-09-05 13:37:31,999 ERROR app MainThread : 'name'
+2022-09-05 13:37:48,909 ERROR app MainThread : 'description'
+2022-09-05 13:37:48,922 ERROR app MainThread : 'imgLink'
+2022-09-05 13:37:48,933 ERROR app MainThread : 'name'
+2022-09-05 13:44:35,484 ERROR app MainThread : 'description'
+2022-09-05 13:44:35,497 ERROR app MainThread : 'imgLink'
+2022-09-05 13:44:35,509 ERROR app MainThread : 'name'
+2022-09-05 13:47:06,022 ERROR app MainThread : 'description'
+2022-09-05 13:47:06,034 ERROR app MainThread : 'imgLink'
+2022-09-05 13:47:06,045 ERROR app MainThread : 'name'
+2022-09-05 13:48:47,809 ERROR app MainThread : 'description'
+2022-09-05 13:48:47,820 ERROR app MainThread : 'imgLink'
+2022-09-05 13:48:47,831 ERROR app MainThread : 'name'
+2022-09-05 13:49:03,930 ERROR app MainThread : 'description'
+2022-09-05 13:49:03,941 ERROR app MainThread : 'imgLink'
+2022-09-05 13:49:03,952 ERROR app MainThread : 'name'
+2022-09-05 13:50:51,821 ERROR app MainThread : 'description'
+2022-09-05 13:50:51,832 ERROR app MainThread : 'imgLink'
+2022-09-05 13:50:51,843 ERROR app MainThread : 'name'
+2022-09-05 13:51:20,692 ERROR app MainThread : 'description'
+2022-09-05 13:51:20,704 ERROR app MainThread : 'imgLink'
+2022-09-05 13:51:20,715 ERROR app MainThread : 'name'
+2022-09-05 13:52:44,009 ERROR app MainThread : 'description'
+2022-09-05 13:52:44,021 ERROR app MainThread : 'imgLink'
+2022-09-05 13:52:44,032 ERROR app MainThread : 'name'
+2022-09-05 13:54:37,976 ERROR app MainThread : 'description'
+2022-09-05 13:54:37,988 ERROR app MainThread : 'imgLink'
+2022-09-05 13:54:37,999 ERROR app MainThread : 'name'
+2022-09-05 13:54:52,771 ERROR app MainThread : 'description'
+2022-09-05 13:54:52,783 ERROR app MainThread : 'imgLink'
+2022-09-05 13:54:52,794 ERROR app MainThread : 'name'
+2022-09-05 13:57:56,818 ERROR app MainThread : 'description'
+2022-09-05 13:57:56,830 ERROR app MainThread : 'imgLink'
+2022-09-05 13:57:56,842 ERROR app MainThread : 'name'
+2022-09-05 13:59:13,904 ERROR app MainThread : 'description'
+2022-09-05 13:59:13,917 ERROR app MainThread : 'imgLink'
+2022-09-05 13:59:13,928 ERROR app MainThread : 'name'
+2022-09-05 14:00:49,945 ERROR app MainThread : 'description'
+2022-09-05 14:00:49,957 ERROR app MainThread : 'imgLink'
+2022-09-05 14:00:49,969 ERROR app MainThread : 'name'
+2022-09-05 14:01:32,018 ERROR app MainThread : 'description'
+2022-09-05 14:01:32,029 ERROR app MainThread : 'imgLink'
+2022-09-05 14:01:32,041 ERROR app MainThread : 'name'
+2022-09-05 14:01:49,134 ERROR app MainThread : 'description'
+2022-09-05 14:01:49,146 ERROR app MainThread : 'imgLink'
+2022-09-05 14:01:49,157 ERROR app MainThread : 'name'
+2022-09-05 14:05:13,446 ERROR app MainThread : 'description'
+2022-09-05 14:05:13,457 ERROR app MainThread : 'imgLink'
+2022-09-05 14:05:13,470 ERROR app MainThread : 'name'
+2022-09-05 14:05:13,574 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiJkZTc4YWM2My0wOTc4LTRlZjAtOWZkYy0yNzhlZWJiYjg3NjciLCJleHAiOjE2NjIzODY3MTN9.96EGO-KY5F2vHTp6Fy8Z0VuSi7owWUtBzRugt7RQL1Q'}
+2022-09-05 14:05:13,574 ERROR app MainThread : 200
+2022-09-05 14:05:52,879 ERROR app MainThread : 'description'
+2022-09-05 14:05:52,890 ERROR app MainThread : 'imgLink'
+2022-09-05 14:05:52,902 ERROR app MainThread : 'name'
+2022-09-05 14:05:53,003 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiIxMTkxMzBlZC1jZDMzLTRiNTAtYmIzNi00N2IzNjg3NmRkY2MiLCJleHAiOjE2NjIzODY3NTN9.Kt5GbcjHiXKkF73nxO3a_ZZWDZWFltjkdCx52sHfQIw'}
+2022-09-05 14:05:53,003 ERROR app MainThread : 200
+2022-09-05 14:05:53,005 ERROR app MainThread : [{'isAdmin': False, 'isTeacher': False, 'mail': 'florian@mail.com', 'name': 'Florian', 'pwHash': 'sha256$MhA3mBnee9ILWOU2$a0c2bacfc465f92d4062560b87b4996f4e2d0bc7cb0da45becc8b12d962d0250', 'userID': '119130ed-cd33-4b50-bb36-47b36876ddcc', 'username': 'floreian'}]
+2022-09-05 14:05:53,005 ERROR app MainThread : 200
+2022-09-05 14:05:53,007 ERROR app MainThread : {'message': 'You are not allowed to get the user'}
+2022-09-05 14:05:53,007 ERROR app MainThread : 406
+2022-09-05 14:10:27,633 ERROR app MainThread : 'description'
+2022-09-05 14:10:27,646 ERROR app MainThread : 'imgLink'
+2022-09-05 14:10:27,657 ERROR app MainThread : 'name'
+2022-09-05 14:10:27,767 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiIxNGU0NmM1Mi0wMjBhLTQyYzAtYWI4OS03M2E0ZTZmMmUyNDMiLCJleHAiOjE2NjIzODcwMjd9.KIpYWeF0pPtDoaeD0Zub31IfwjOEdxqItrcd6XUpj6M'}
+2022-09-05 14:10:27,767 ERROR app MainThread : 200
+2022-09-05 14:10:27,769 ERROR app MainThread : [{'isAdmin': False, 'isTeacher': False, 'mail': 'florian@mail.com', 'name': 'Florian', 'pwHash': 'sha256$hVlDP4rKisQYlEEZ$1c1a091950c86de94bb80af08ffbfe2513b8a2c9a5e32ebbab36d1a92f759902', 'userID': '14e46c52-020a-42c0-ab89-73a4e6f2e243', 'username': 'floreian'}]
+2022-09-05 14:10:27,769 ERROR app MainThread : 200
+2022-09-05 14:10:27,770 ERROR app MainThread : User: <User 14e46c52-020a-42c0-ab89-73a4e6f2e243>
+2022-09-05 14:10:27,770 ERROR app MainThread : Current User: <User 14e46c52-020a-42c0-ab89-73a4e6f2e243>
+2022-09-05 14:10:27,771 ERROR app MainThread : {'message': 'You are not allowed to get the user'}
+2022-09-05 14:10:27,771 ERROR app MainThread : 406
+2022-09-05 14:11:37,092 ERROR app MainThread : 'description'
+2022-09-05 14:11:37,103 ERROR app MainThread : 'imgLink'
+2022-09-05 14:11:37,114 ERROR app MainThread : 'name'
+2022-09-05 14:11:37,239 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiI2YTM1NmFkYi0yZDYwLTQwM2EtYmI0Yy0zYTk5MGFhZDdhMjYiLCJleHAiOjE2NjIzODcwOTd9.t9Jvz3i14_YU9-NCN8YLHH5ZrUe87oeRNLWeJ-pFfzw'}
+2022-09-05 14:11:37,239 ERROR app MainThread : 200
+2022-09-05 14:11:37,241 ERROR app MainThread : [{'isAdmin': False, 'isTeacher': False, 'mail': 'florian@mail.com', 'name': 'Florian', 'pwHash': 'sha256$coOKX5FnBmu02C5V$f54fe7cee5c59c3be79ba0b7cdcb00ae0b63b6ea47a87440e48298c59ccb93e1', 'userID': '6a356adb-2d60-403a-bb4c-3a990aad7a26', 'username': 'floreian'}]
+2022-09-05 14:11:37,241 ERROR app MainThread : 200
+2022-09-05 14:11:37,242 ERROR app MainThread : User: <User 6a356adb-2d60-403a-bb4c-3a990aad7a26>
+2022-09-05 14:11:37,242 ERROR app MainThread : Current User: <User 6a356adb-2d60-403a-bb4c-3a990aad7a26>
+2022-09-05 14:11:37,242 ERROR app MainThread : {'message': 'You are not allowed to get the user'}
+2022-09-05 14:11:37,242 ERROR app MainThread : 406
+2022-09-05 14:12:06,600 ERROR app MainThread : 'description'
+2022-09-05 14:12:06,610 ERROR app MainThread : 'imgLink'
+2022-09-05 14:12:06,621 ERROR app MainThread : 'name'
+2022-09-05 14:12:06,725 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiIxNTQ3MmRhMi05MmY5LTQyMWMtYWRkZS0wZThhYzYwYmVmMDMiLCJleHAiOjE2NjIzODcxMjZ9.5zTMC9Ktw5kXy6_v7h8n88VAsyjkHAOA1yKObgFpCiM'}
+2022-09-05 14:12:06,726 ERROR app MainThread : 200
+2022-09-05 14:12:06,727 ERROR app MainThread : [{'isAdmin': False, 'isTeacher': False, 'mail': 'florian@mail.com', 'name': 'Florian', 'pwHash': 'sha256$A3zoVGhDKkZihGmA$8f55e19711f652cdb5473f6a70fbc3e22a997021c3adc3f009f491c62d37cf2b', 'userID': '15472da2-92f9-421c-adde-0e8ac60bef03', 'username': 'floreian'}]
+2022-09-05 14:12:06,727 ERROR app MainThread : 200
+2022-09-05 14:12:06,729 ERROR app MainThread : User: 15472da2-92f9-421c-adde-0e8ac60bef03
+2022-09-05 14:12:06,729 ERROR app MainThread : Current User: 15472da2-92f9-421c-adde-0e8ac60bef03
+2022-09-05 14:12:06,729 ERROR app MainThread : {'message': 'You are not allowed to get the user'}
+2022-09-05 14:12:06,729 ERROR app MainThread : 406
+2022-09-05 14:12:39,895 ERROR app MainThread : 'description'
+2022-09-05 14:12:39,907 ERROR app MainThread : 'imgLink'
+2022-09-05 14:12:39,918 ERROR app MainThread : 'name'
+2022-09-05 14:12:40,017 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiJlMDcwMTFjMi00MTMwLTQ3ZDYtODM3Yi1jOWRhNGU1MTI3ZTAiLCJleHAiOjE2NjIzODcxNjB9.kfJEcQ2oWPB7AtUNEpd93Xu7ZB82x0579Ku6szygVfY'}
+2022-09-05 14:12:40,017 ERROR app MainThread : 200
+2022-09-05 14:12:40,019 ERROR app MainThread : [{'isAdmin': False, 'isTeacher': False, 'mail': 'florian@mail.com', 'name': 'Florian', 'pwHash': 'sha256$QyUDz5tTvmK3dS5t$a6dfa066e15aaafcb297af2aedf6adc3790fd7d4f2a9ef293381dab5dfd4e915', 'userID': 'e07011c2-4130-47d6-837b-c9da4e5127e0', 'username': 'floreian'}]
+2022-09-05 14:12:40,019 ERROR app MainThread : 200
+2022-09-05 14:12:40,020 ERROR app MainThread : User: e07011c2-4130-47d6-837b-c9da4e5127e0
+2022-09-05 14:12:40,020 ERROR app MainThread : Current User: e07011c2-4130-47d6-837b-c9da4e5127e0
+2022-09-05 14:12:40,020 ERROR app MainThread : {'isAdmin': False, 'isTeacher': False, 'mail': 'florian@mail.com', 'name': 'Florian', 'pwHash': 'sha256$QyUDz5tTvmK3dS5t$a6dfa066e15aaafcb297af2aedf6adc3790fd7d4f2a9ef293381dab5dfd4e915', 'userID': 'e07011c2-4130-47d6-837b-c9da4e5127e0', 'username': 'floreian'}
+2022-09-05 14:12:40,020 ERROR app MainThread : 200
+2022-09-05 14:14:05,710 ERROR app MainThread : 'description'
+2022-09-05 14:14:05,723 ERROR app MainThread : 'imgLink'
+2022-09-05 14:14:05,738 ERROR app MainThread : 'name'
+2022-09-05 14:14:05,839 ERROR app MainThread : {'authToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiJiNmJjN2JhMy02Y2VlLTRhNmItOGEyYi00MGI3MWJmMTI4MjEiLCJleHAiOjE2NjIzODcyNDV9.zRFtCzPINeHFwNa4XO6TmJdYNB0OSLowHemy0es5YfA'}
+2022-09-05 14:14:05,839 ERROR app MainThread : 200
+2022-09-05 14:14:05,841 ERROR app MainThread : [{'isAdmin': False, 'isTeacher': False, 'mail': 'florian@mail.com', 'name': 'Florian', 'pwHash': 'sha256$5xNT3AdZ0ry6WDcB$1093c948c8b5cf6641150b3daaf5e4e9f71900aaf0b840b4a68e026e3f0d48c4', 'userID': 'b6bc7ba3-6cee-4a6b-8a2b-40b71bf12821', 'username': 'floreian'}]
+2022-09-05 14:14:05,841 ERROR app MainThread : 200
+2022-09-05 14:14:05,842 ERROR app MainThread : User: b6bc7ba3-6cee-4a6b-8a2b-40b71bf12821
+2022-09-05 14:14:05,842 ERROR app MainThread : Current User: b6bc7ba3-6cee-4a6b-8a2b-40b71bf12821
+2022-09-05 14:14:05,842 ERROR app MainThread : {'isAdmin': False, 'isTeacher': False, 'mail': 'florian@mail.com', 'name': 'Florian', 'pwHash': 'sha256$5xNT3AdZ0ry6WDcB$1093c948c8b5cf6641150b3daaf5e4e9f71900aaf0b840b4a68e026e3f0d48c4', 'userID': 'b6bc7ba3-6cee-4a6b-8a2b-40b71bf12821', 'username': 'floreian'}
+2022-09-05 14:14:05,842 ERROR app MainThread : 200
+2022-09-05 14:16:35,294 ERROR app MainThread : 'description'
+2022-09-05 14:16:35,306 ERROR app MainThread : 'imgLink'
+2022-09-05 14:16:35,316 ERROR app MainThread : 'name'
+2022-09-05 14:17:31,798 ERROR app MainThread : 'description'
+2022-09-05 14:17:31,809 ERROR app MainThread : 'imgLink'
+2022-09-05 14:17:31,820 ERROR app MainThread : 'name'
+2022-09-05 14:18:21,040 ERROR app MainThread : 'description'
+2022-09-05 14:18:21,053 ERROR app MainThread : 'imgLink'
+2022-09-05 14:18:21,064 ERROR app MainThread : 'name'
+2022-09-05 14:21:41,349 ERROR app MainThread : 'description'
+2022-09-05 14:21:41,361 ERROR app MainThread : 'imgLink'
+2022-09-05 14:21:41,372 ERROR app MainThread : 'name'
+2022-09-05 14:21:54,198 ERROR app MainThread : 'description'
+2022-09-05 14:21:54,211 ERROR app MainThread : 'imgLink'
+2022-09-05 14:21:54,223 ERROR app MainThread : 'name'
+2022-09-05 14:22:37,087 ERROR app MainThread : 'description'
+2022-09-05 14:22:37,100 ERROR app MainThread : 'imgLink'
+2022-09-05 14:22:37,111 ERROR app MainThread : 'name'
+2022-09-05 14:26:18,558 ERROR app MainThread : 'description'
+2022-09-05 14:26:18,570 ERROR app MainThread : 'imgLink'
+2022-09-05 14:26:18,582 ERROR app MainThread : 'name'
+2022-09-05 14:26:34,705 ERROR app MainThread : 'description'
+2022-09-05 14:26:34,717 ERROR app MainThread : 'imgLink'
+2022-09-05 14:26:34,728 ERROR app MainThread : 'name'
+2022-09-05 14:26:57,158 ERROR app MainThread : 'description'
+2022-09-05 14:26:57,170 ERROR app MainThread : 'imgLink'
+2022-09-05 14:26:57,182 ERROR app MainThread : 'name'
+2022-09-05 14:29:10,609 ERROR app MainThread : 'description'
+2022-09-05 14:29:10,621 ERROR app MainThread : 'imgLink'
+2022-09-05 14:29:10,633 ERROR app MainThread : 'name'
+2022-09-05 14:29:18,876 ERROR app MainThread : 'description'
+2022-09-05 14:29:18,888 ERROR app MainThread : 'imgLink'
+2022-09-05 14:29:18,900 ERROR app MainThread : 'name'
+2022-09-05 14:36:24,281 ERROR app MainThread : 'description'
+2022-09-05 14:36:24,294 ERROR app MainThread : 'imgLink'
+2022-09-05 14:36:24,305 ERROR app MainThread : 'name'
+2022-09-05 14:37:14,513 ERROR app MainThread : 'description'
+2022-09-05 14:37:14,524 ERROR app MainThread : 'imgLink'
+2022-09-05 14:37:14,536 ERROR app MainThread : 'name'
+2022-09-05 14:38:55,643 ERROR app MainThread : 'description'
+2022-09-05 14:38:55,654 ERROR app MainThread : 'imgLink'
+2022-09-05 14:38:55,665 ERROR app MainThread : 'name'
+2022-09-05 14:40:30,080 ERROR app MainThread : 'description'
+2022-09-05 14:40:30,091 ERROR app MainThread : 'imgLink'
+2022-09-05 14:40:30,101 ERROR app MainThread : 'name'
+2022-09-05 14:41:51,462 ERROR app MainThread : 'description'
+2022-09-05 14:41:51,474 ERROR app MainThread : 'imgLink'
+2022-09-05 14:41:51,484 ERROR app MainThread : 'name'
+2022-09-05 14:53:51,828 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,835 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,841 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,847 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,853 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,863 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,871 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,878 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,885 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,893 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,900 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,907 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,914 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,921 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,931 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,938 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,944 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,953 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,962 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,964 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,973 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,974 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,983 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:51,993 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:52,000 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:52,008 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:52,017 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:52,025 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:52,035 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:52,043 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:52,051 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:52,059 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:53:52,068 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,274 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,280 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,286 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,293 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,300 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,307 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,314 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,321 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,328 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,335 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,342 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,348 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,355 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,362 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,370 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,378 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,385 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,393 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,402 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,403 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,411 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,413 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,421 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,429 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,437 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,445 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,452 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,460 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,468 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,476 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,485 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,493 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:56:32,501 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,453 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,461 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,466 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,471 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,476 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,482 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,488 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,496 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,503 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,510 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,517 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,524 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,531 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,537 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,544 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,552 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,560 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,569 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,576 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,578 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,586 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,587 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,596 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,605 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,612 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,620 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,629 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,636 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,644 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,652 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,662 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,670 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 14:58:43,679 ERROR app MainThread : __init__() missing 2 required positional arguments: 'isAdmin' and 'isTeacher'
+2022-09-05 15:00:28,345 ERROR app MainThread : 'description'
+2022-09-05 15:00:28,358 ERROR app MainThread : 'imgLink'
+2022-09-05 15:00:28,368 ERROR app MainThread : 'name'
+2022-09-05 15:01:50,651 ERROR app MainThread : 'description'
+2022-09-05 15:01:50,662 ERROR app MainThread : 'imgLink'
+2022-09-05 15:01:50,674 ERROR app MainThread : 'name'
+2022-09-05 15:02:20,525 ERROR app MainThread : 'description'
+2022-09-05 15:02:20,537 ERROR app MainThread : 'imgLink'
+2022-09-05 15:02:20,549 ERROR app MainThread : 'name'
+2022-09-05 15:02:30,297 ERROR app MainThread : 'description'
+2022-09-05 15:02:30,311 ERROR app MainThread : 'imgLink'
+2022-09-05 15:02:30,324 ERROR app MainThread : 'name'
+2022-09-05 15:02:41,690 ERROR app MainThread : 'description'
+2022-09-05 15:02:41,701 ERROR app MainThread : 'imgLink'
+2022-09-05 15:02:41,711 ERROR app MainThread : 'name'
+2022-09-05 15:03:03,331 ERROR app MainThread : 'description'
+2022-09-05 15:03:03,343 ERROR app MainThread : 'imgLink'
+2022-09-05 15:03:03,354 ERROR app MainThread : 'name'
+2022-09-05 15:03:19,146 ERROR app MainThread : 'description'
+2022-09-05 15:03:19,159 ERROR app MainThread : 'imgLink'
+2022-09-05 15:03:19,169 ERROR app MainThread : 'name'
+2022-09-05 15:04:00,665 ERROR app MainThread : 'description'
+2022-09-05 15:04:00,678 ERROR app MainThread : 'imgLink'
+2022-09-05 15:04:00,690 ERROR app MainThread : 'name'
+2022-09-05 15:04:15,250 ERROR app MainThread : 'description'
+2022-09-05 15:04:15,260 ERROR app MainThread : 'imgLink'
+2022-09-05 15:04:15,271 ERROR app MainThread : 'name'
+2022-09-05 15:04:24,261 ERROR app MainThread : 'description'
+2022-09-05 15:04:24,272 ERROR app MainThread : 'imgLink'
+2022-09-05 15:04:24,285 ERROR app MainThread : 'name'
+2022-09-05 15:08:10,124 ERROR app MainThread : 'description'
+2022-09-05 15:08:10,134 ERROR app MainThread : 'imgLink'
+2022-09-05 15:08:10,145 ERROR app MainThread : 'name'
+2022-09-05 15:08:26,628 ERROR app MainThread : 'description'
+2022-09-05 15:08:26,641 ERROR app MainThread : 'imgLink'
+2022-09-05 15:08:26,653 ERROR app MainThread : 'name'
+2022-09-05 15:11:05,970 ERROR app MainThread : 'description'
+2022-09-05 15:11:05,981 ERROR app MainThread : 'imgLink'
+2022-09-05 15:11:05,992 ERROR app MainThread : 'name'
+2022-09-05 15:18:58,177 ERROR app MainThread : 'description'
+2022-09-05 15:18:58,186 ERROR app MainThread : 'imgLink'
+2022-09-05 15:18:58,196 ERROR app MainThread : 'name'
+2022-09-05 15:19:23,389 ERROR app MainThread : 'description'
+2022-09-05 15:19:23,402 ERROR app MainThread : 'imgLink'
+2022-09-05 15:19:23,415 ERROR app MainThread : 'name'
+2022-09-05 15:20:06,801 ERROR app MainThread : 'description'
+2022-09-05 15:20:06,813 ERROR app MainThread : 'imgLink'
+2022-09-05 15:20:06,824 ERROR app MainThread : 'name'
+2022-09-05 15:20:45,122 ERROR app MainThread : 'description'
+2022-09-05 15:20:45,135 ERROR app MainThread : 'imgLink'
+2022-09-05 15:20:45,146 ERROR app MainThread : 'name'
+2022-09-05 15:24:49,495 ERROR app MainThread : 'description'
+2022-09-05 15:24:49,507 ERROR app MainThread : 'imgLink'
+2022-09-05 15:24:49,518 ERROR app MainThread : 'name'
+2022-09-05 15:24:59,941 ERROR app MainThread : 'description'
+2022-09-05 15:24:59,954 ERROR app MainThread : 'imgLink'
+2022-09-05 15:24:59,966 ERROR app MainThread : 'name'
+2022-09-05 15:25:55,048 ERROR app MainThread : 'description'
+2022-09-05 15:25:55,060 ERROR app MainThread : 'imgLink'
+2022-09-05 15:25:55,071 ERROR app MainThread : 'name'
+2023-10-11 16:05:21,460 WARNING app MainThread : warn message
+2023-10-11 16:05:21,461 ERROR app MainThread : error message
+2023-10-11 16:05:21,461 CRITICAL app MainThread : critical message
+2023-10-11 16:09:12,244 WARNING app MainThread : warn message
+2023-10-11 16:09:12,244 ERROR app MainThread : error message
+2023-10-11 16:09:12,244 CRITICAL app MainThread : critical message
+2023-10-11 16:27:05,776 WARNING app MainThread : warn message
+2023-10-11 16:27:05,776 ERROR app MainThread : error message
+2023-10-11 16:27:05,777 CRITICAL app MainThread : critical message
+2023-10-11 16:37:53,152 WARNING app MainThread : warn message
+2023-10-11 16:37:53,152 ERROR app MainThread : error message
+2023-10-11 16:37:53,152 CRITICAL app MainThread : critical message
+2023-10-11 16:50:25,934 WARNING app MainThread : warn message
+2023-10-11 16:50:25,934 ERROR app MainThread : error message
+2023-10-11 16:50:25,934 CRITICAL app MainThread : critical message
+2023-10-11 17:17:47,474 WARNING app MainThread : warn message
+2023-10-11 17:17:47,474 ERROR app MainThread : error message
+2023-10-11 17:17:47,474 CRITICAL app MainThread : critical message
+2023-10-11 17:33:23,125 WARNING app MainThread : warn message
+2023-10-11 17:33:23,125 ERROR app MainThread : error message
+2023-10-11 17:33:23,125 CRITICAL app MainThread : critical message
+2023-10-11 17:36:16,335 WARNING app MainThread : warn message
+2023-10-11 17:36:16,336 ERROR app MainThread : error message
+2023-10-11 17:36:16,336 CRITICAL app MainThread : critical message
+2023-10-11 17:36:21,506 ERROR app MainThread : This Session's transaction has been rolled back due to a previous exception during flush. To begin a new transaction with this Session, first issue Session.rollback(). Original exception was: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlite3.IntegrityError) UNIQUE constraint failed: user.mail
+[SQL: INSERT INTO user ("userID", name, username, mail, "pwHash", "isAdmin", "isTeacher") VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: (('ad30f0c0-1979-4716-8bcf-17a76a09600b', 'randName', 'randUsername', 'rand@mail.com', 'pbkdf2:sha256:260000$WPlBxoSwtAPqp4cz$481fee5e7821048bd20eaf76328c23cce0480508d52bd764f341fc187464db7c', 0, 0), ('e335a4c7-dc6c-47ad-806d-24100ab1a965', 'florian', 'flo', 'flo@mail.com', 'pbkdf2:sha256:260000$A9DOdaVIXsRmhLo7$c49816f91ba7fbe86bc0ca66c99ee3207d53bf4f38ec23b464cacd56808db963', 0, 0), ('6747270d-8960-45df-b350-6e55897a1b18', 'adminName', 'adminUsername', 'admin@mail.com', 'pbkdf2:sha256:260000$7aG3Gzk8sRGJWxki$a022bc359c19c7274365e23cd9354432c3d407185babf287f2dfb9dc86c54d9b', 1, 0))]
+(Background on this error at: https://sqlalche.me/e/14/gkpj) (Background on this error at: https://sqlalche.me/e/14/7s2a)
+2023-10-11 17:37:13,858 WARNING app MainThread : warn message
+2023-10-11 17:37:13,858 ERROR app MainThread : error message
+2023-10-11 17:37:13,858 CRITICAL app MainThread : critical message
+2023-10-11 17:37:42,721 WARNING app MainThread : warn message
+2023-10-11 17:37:42,721 ERROR app MainThread : error message
+2023-10-11 17:37:42,722 CRITICAL app MainThread : critical message
+2023-10-11 17:38:37,690 WARNING app MainThread : warn message
+2023-10-11 17:38:37,690 ERROR app MainThread : error message
+2023-10-11 17:38:37,691 CRITICAL app MainThread : critical message
+2023-10-11 17:45:30,837 WARNING app MainThread : warn message
+2023-10-11 17:45:30,838 ERROR app MainThread : error message
+2023-10-11 17:45:30,838 CRITICAL app MainThread : critical message

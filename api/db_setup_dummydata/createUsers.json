@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "Admin1",
+      "username": "admin1",
+      "password": "s@XGQvqk5b",
+      "mail": "admin1@mail.com",
+      "isAdmin": true,
+      "isTeacher": false
+    },
+    {
+      "name": "Admin2",
+      "username": "admin2",
+      "password": "Ea&U$19XL4",
+      "mail": "admin2@mail.com",
+      "isAdmin": true,
+      "isTeacher": false
+    },
+    {
+      "name": "Admin3",
+      "username": "admin3",
+      "password": "DCMt?$1Ox!",
+      "mail": "admin3@mail.com",
+      "isAdmin": true,
+      "isTeacher": true
+    },
+    {
+      "name": "Teacher1",
+      "username": "teacher1",
+      "password": "T8rGu@ID54",
+      "mail": "teacher1@mail.com",
+      "isAdmin": false,
+      "isTeacher": true
+    },
+    {
+      "name": "Teacher2",
+      "username": "teacher2",
+      "password": "J9o$&7qVKk",
+      "mail": "teacher2@mail.com",
+      "isAdmin": false,
+      "isTeacher": true
+    },
+    {
+      "name": "Teacher3",
+      "username": "teacher3",
+      "password": "GJC4Zwmu2#",
+      "mail": "teacher3@mail.com",
+      "isAdmin": false,
+      "isTeacher": true
+    },
+    {
+      "name": "Student1",
+      "username": "student1",
+      "password": "K&2Rxm@$&1",
+      "mail": "student1@mail.com",
+      "isAdmin": false,
+      "isTeacher": false
+    },
+    {
+      "name": "Student2",
+      "username": "student2",
+      "password": "ELMjQ$0Lk2",
+      "mail": "student2@mail.com",
+      "isAdmin": false,
+      "isTeacher": false
+    },
+    {
+      "name": "Student3",
+      "username": "student3",
+      "password": "8b&tS!T38C",
+      "mail": "student3@mail.com",
+      "isAdmin": false,
+      "isTeacher": false
+    }
+  ]
+}

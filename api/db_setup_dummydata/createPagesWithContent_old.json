@@ -1,0 +1,215 @@
+{
+  "pages": [
+    {
+      "name": "Wie sicher ist mein Passwort?",
+      "imgLink": "https://images.pexels.com/photos/2882630/pexels-photo-2882630.jpeg",
+      "description": "Ein sicheres Passwort, das niemand so leicht erraten kann, ist sehr wichtig.",
+      "owner": "teacher2",
+      "writer": ["teacher1"],
+      "reader": ["teacher3", "student2", "student3"],
+      "content": [
+        {
+          "name": "Warum ist das so wichtig?",
+          "type": "1",
+          "content": "Bestimmt hast du dich schon einmal irgendwo angemeldet, wo du nach einem Passwort gefragt worden bist. Du brauchst ein Passwort, um Informationen vor anderen Menschen zu schützen. Es ist wie ein Schlüssel für den Computer und das Internet. Wenn du dich bei einer Kinderseite anmeldest oder registriert, musst du ein Passwort eingeben. Wichtig ist dabei, dass es schwer zu erraten ist und niemand außer deiner Eltern das Passwort kennt. Gäbe es keine Passwörter, könnte sich jeder mit dem Account eines anderen anmelden und unter dessen Namen im Internet surfen und E-Mails verschicken."
+        },
+        {
+          "name": "Was ist ein sicheres Passwort?",
+          "type": "1",
+          "content": "<p>Um ausreichend Schutz zu bieten, sollte dein persönliches Kennwort die folgenden Merkmale erfüllen:<p> <p>1. <strong>Es hat mindestens 8 Zeichen.</strong></p><p>2. <strong>Es enthält Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen (wie z. B. +, / oder ?).</strong></p><p>3. <strong>Es kommen darin keine persönlichen Daten vor (wie z. B. dein Name oder dein Geburtsdatum).</strong></p><p>4. <strong>Es ist geheim. Du solltest es also niemandem verraten.</strong></p><p>5. <strong>Es ist nirgendwo aufgeschrieben. Du solltest es dir also gut merken können.</strong></p>"
+        },
+        {
+          "name": "Was ist ein sicheres Passwort? Part 2",
+          "type": "3",
+          "content": "https://www.youtube.com/watch?v=1lVqVVgkxYE"
+        },
+        {
+          "name": "Eine kleine Merkhilfe",
+          "type": "1",
+          "content": "<p>Es ist nicht immer ganz einfach, ein gutes Passwort zu finden. Denn auf der einen Seite soll es für andere nicht so leicht zu erraten sein, auf der anderen sollst du es dir dennoch gut merken können. Eine Eselsbrücke kann da helfen. Denk dir einen Satz aus, mit dessen Hilfe du dir dein Passwort gut behalten kannst. Hier ein paar Beispiele:</p><p>Ich habe beim Weitwurf den 2. Platz gemacht! > Passwort: IhbWd2Pg!</p><p>99 Luftballons - auf ihrem Weg zum Horizont > Passwort: 99L-aiWzH</p><p>Ist am 3. Oktober Tag der Deutschen Einheit? > Passwort: Ia3OTdDE?</p>"
+        },
+        {
+          "name": "Passwörter und Pizza?",
+          "type": "2",
+          "content": "https://www.bsi.bund.de/SharedDocs/Bilder/DE/BSI/Aktuell/Sicheres_Passwort_passwoerter_merken_pizza.jpg?__blob=poster&v=1"
+        }
+      ]
+    },
+    {
+      "name": "Wer schreibt mir denn da?",
+      "imgLink": "https://www.internetmatters.org/connecting-safely-online/wp-content/uploads/sites/2/2020/06/Parents-Strangers.png",
+      "description": "Im Internet können die Leute hinter den Nachrichten ganz anders sein als du denkst. Deshalb solltest du immer aufpassen, was du im Internet schreibst.",
+      "owner": "teacher1",
+      "writer": ["teacher2"],
+      "reader": ["teacher3", "student1", "student3"],
+      "content": [
+        {
+          "name": "Warum ist das so wichtig?",
+          "type": "1",
+          "content": "<p>Im Internet kannst du mit vielen Menschen in Kontakt treten. Du kannst mit ihnen chatten, mit ihnen spielen oder mit ihnen über deine Hobbys und Interessen sprechen. Das ist toll, denn so kannst du neue Freunde finden. Aber du musst auch aufpassen, was du im Internet schreibst."
+        },
+        {
+          "name": "Wie finde ich heraus wer das ist?",
+          "type": "1",
+          "content": "<p>Wenn du im Internet mit anderen Menschen in Kontakt trittst, solltest du immer aufpassen, wer das ist. Denn es gibt viele Menschen, die sich im Internet als jemand anderes ausgeben. Sie wollen zum Beispiel, dass du ihnen Geld schickst oder dass du ihnen deine persönlichen Daten verrätst. Deshalb solltest du immer aufpassen, was du im Internet schreibst.</p>"
+        },
+        {
+          "name": "Wie funktioniert das im Interent?",
+          "type": "3",
+          "content": "https://www.youtube.com/watch?v=i7cYePelQH4"
+        },
+
+        {
+          "name": "Erkenne ich die richtige Person?",
+          "type": "1",
+          "content": "<p>Hier wird es ein Spiel zur Überprüfung des Lernerfolges geben. Darin werden leichtere und schwerere Fragen gestellt und das Kind kann sich damit Punkte erspielen.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Was sind Passwörter?",
+      "imgLink": "https://fpmedia.at/master/password1.png",
+      "description": "Jeder spricht immer über Passwörter, aber was ist das eigentlich und wozu werden die verwendet?",
+      "owner": "teacher2",
+      "writer": ["teacher1"],
+      "reader": ["teacher3", "student2", "student3"],
+      "content": [
+        {
+          "name": "Was weißt du schon über Passwörter?",
+          "type": "4",
+          "content": "https://app.Lumi.education/run/7nLb4h"
+        },
+        {
+          "name": "Warum sind sichere Passwörter so wichtig?",
+          "type": "1",
+          "content": "Bestimmt hast du dich schon einmal irgendwo angemeldet, wo du nach einem Passwort gefragt worden bist. Du brauchst ein Passwort, um Informationen vor anderen Menschen zu schützen. Es ist wie ein Schlüssel für den Computer und das Internet. Wenn du dich bei einer Kinderseite anmeldest oder registriert, musst du ein Passwort eingeben. Wichtig ist dabei, dass es schwer zu erraten ist und niemand außer deiner Eltern das Passwort kennt. Gäbe es keine Passwörter, könnte sich jeder mit dem Account eines anderen anmelden und unter dessen Namen im Internet surfen und E-Mails verschicken."
+        },
+        {
+          "name": "Was ist ein sicheres Passwort?",
+          "type": "1",
+          "content": "Um ausreichend Schutz zu bieten, sollte dein persönliches Kennwort die folgenden Merkmale erfüllen:<p> <p>1. <strong>Es hat mindestens 8 Zeichen.</strong></p><p>2. <strong>Es enthält Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen (wie z. B. +, / oder ?).</strong></p><p>3. <strong>Es kommen darin keine persönlichen Daten vor (wie z. B. dein Name oder dein Geburtsdatum).</strong></p><p>4. <strong>Es ist geheim. Du solltest es also niemandem verraten.</strong></p><p>5. <strong>Es ist nirgendwo aufgeschrieben. Du solltest es dir also gut merken können.</strong></p>"
+        },
+        {
+          "name": "Was ist ein sicheres Passwort?",
+          "type": "3",
+          "content": "https://www.youtube.com/watch?v=1lVqVVgkxYE"
+        },
+        {
+          "name": "Was ist ein sicheres Passwort?",
+          "type": "4",
+          "content": "https://app.Lumi.education/run/N99gGo"
+        },
+        {
+          "name": "Spiel zur Merkhilfe",
+          "type": "4",
+          "content": "https://app.Lumi.education/run/semYUf"
+        },
+        {
+          "name": "Hier kannst du das Bild nochmal genauer betrachten",
+          "type": "2",
+          "content": "https://fpmedia.at/master/PizzaGrafik.png"
+        },
+
+        {
+          "name": "Merkhilfe für Passwörter",
+          "type": "1",
+          "content": "<p>Es ist nicht immer ganz einfach, ein gutes Passwort zu finden. Denn auf der einen Seite soll es für andere nicht so leicht zu erraten sein, auf der anderen sollst du es dir dennoch gut merken können. Eine Eselsbrücke kann da helfen. Denk dir einen Satz aus, mit dessen Hilfe du dir dein Passwort gut behalten kannst. Hier ein paar Beispiele:</p><p>Ich habe beim Weitwurf den 2. Platz gemacht! > Passwort: IhbWd2Pg!</p><p>99 Luftballons - auf ihrem Weg zum Horizont > Passwort: 99L-aiWzH</p><p>Ist am 3. Oktober Tag der Deutschen Einheit? > Passwort: Ia3OTdDE?</p>"
+        },
+
+        {
+          "name": "Spiel zur Merkhilfe",
+          "type": "1",
+          "content": "https://app.Lumi.education/run/bYqQPw"
+        },
+        {
+          "name": "Abschlussquiz",
+          "type": "4",
+          "content": "https://app.Lumi.education/run/Wr6AFa"
+        }
+      ]
+    },
+    {
+      "description": "Du wei\u00dft schon wie du Passw\u00f6rter erstellst und wozu sie da sind. Aber wie kannst du sie sch\u00fctzen?",
+      "imgLink": "https://fpmedia.at/master/password2.png",
+      "name": "Wie kann ich meine Passw\u00f6rter sch\u00fctzen?",
+      "pageID": "3deaa962-3820-4484-b160-169d7bc94348",
+      "owner": "teacher2",
+      "writer": ["teacher1"],
+      "reader": ["teacher3", "student2", "student3"],
+      "content": [
+        {
+          "content": "<p>In diesem Kurs lernst du, wie du deine Passw\u00f6rter mithilfe eines Passwort-Managers speichern und verwenden kannst. Au\u00dferdem werden wir einige Gefahren, die im Zusammenhang mit Passw\u00f6rtern bestehen, genauer erkunden. Zu Beginn machen wir allerdings ein kleines Quiz, um zu sehen, was du denn schon alles \u00fcber Passw\u00f6rter wei\u00dft.</p>",
+          "contentID": "f6b51fce-6540-4094-89a6-937883e8eac0",
+          "name": "Was erwartet dich in diesem Kurs",
+          "type": "1"
+        },
+        {
+          "content": "",
+          "contentID": "17496da1-14bb-48f7-a312-b19bbe7ee251",
+          "name": "Was wei\u00dft du schon \u00fcber Passw\u00f6rter?",
+          "type": "4"
+        },
+        {
+          "content": "<p>Ein Passwort-Manager ist ein Computerprogramm oder eine App, die dir hilft, deine Passw\u00f6rter sicher aufzubewahren. Statt sich alle deine Passw\u00f6rter merken zu m\u00fcssen, kannst du sie in einem Passwort-Manager speichern. Das bedeutet, dass du nur noch ein einziges Passwort brauchst, um auf alle deine anderen Passw\u00f6rter zugreifen zu k\u00f6nnen.</p>",
+          "contentID": "906df278-3d34-4166-a2f4-50dfe67645ab",
+          "name": "Was ist ein Passwort-Manager",
+          "type": "1"
+        },
+        {
+          "content": "",
+          "contentID": "8638f068-99cd-4e00-ac90-b54458e71d02",
+          "name": "Passwort Memory",
+          "type": "4"
+        },
+        {
+          "content": "<p>Es ist sehr gut, dass und Passwort-Manager helfen, weil es schwer ist, sich viele Passw\u00f6rter zu merken und es ist auch nicht sicher, sie irgendwo aufzuschreiben. Wenn jemand deine aufgeschriebenen Passw\u00f6rter findet, kann er sie verwenden, um in deine Konten einzudringen. Mit einem Passwort-Manager brauchst du dir keine Sorgen dar\u00fcber zu machen, dass jemand deine Passw\u00f6rter findet oder stiehlt, weil sie verschl\u00fcsselt und sicher gespeichert sind.</p><p>Au\u00dferdem erstellt ein Passwort-Manager auch sichere und stark Passw\u00f6rter f\u00fcr dich, wenn dir deine Ideen ausgehen. Diese Passw\u00f6rter sin dann meistens so kompliziert, dass du die sonst nicht erstellen kannst oder w\u00fcrdest. Du kannst sie dir auch meistens nicht merken, das macht aber nichts, da diese Aufgabe dein Passwort-Manager \u00fcbernimmt.</p><p>Kurz gesagt, ein Passwort-Manager hilft dir dabei, deine Passw\u00f6rter sicher zu speichern und dir das merken und erstellen von vielen verschiedenen Passw\u00f6rtern zu erleichtern.</p>",
+          "contentID": "9ca260c7-7e2d-4cc5-8bb0-0ecc272e3f77",
+          "name": "Was k\u00f6nnen Passwort-Manager noch?",
+          "type": "1"
+        },
+        {
+          "content": "",
+          "contentID": "1081b2c8-63f9-4a29-9ee9-b7146cf4bcb8",
+          "name": "Quiz Passwort Manager",
+          "type": "4"
+        },
+        {
+          "content": "<p>Neben relativ harmlosen Werbe-E-Mails und Kettenbriefen k\u00f6nnen weitaus gef\u00e4hrlichere E-Mails Ihren Posteingang \u00fcberschwemmen. Es gibt auch finstere Leute, die versuchen, Ihr Passwort zu stehlen (von ebay, Amazon usw.). \u201ePhishing\u201c hei\u00dft diese Art des Datendiebstahls. Kriminelle bedienen sich dabei eines einfachen Tricks: Sie verlangen unter einem Vorwand geheime Daten. Als K\u00f6der senden sie E-Mails, die scheinbar von Websites stammen, f\u00fcr die sie die Passw\u00f6rter wissen wollen. Die E-Mail enth\u00e4lt Links, die direkt zu echten gef\u00e4lschten Kopien bekannter Websites f\u00fchren. Wenn ich klicke, k\u00e4mpfe ich fast mit Haken. Auf der Landing-Website werden Sie aufgefordert, Ihre Daten einzugeben. Und boom \u2013 die B\u00f6sewichte haben es bereits und k\u00f6nnen es selbst verwenden. Nat\u00fcrlich k\u00f6nnen sie Daten \u201ephishen\u201c, die auch zum Geldverdienen verwendet werden k\u00f6nnen, wie z. B. Internet-Auktionsh\u00e4user, Bankkonten, Internet-Zahlungssysteme usw. Manche Leute m\u00f6gen es es insbesondere.</p>",
+          "contentID": "03083936-e4f5-462a-8d4a-bccabf8ec780",
+          "name": "Gefahren f\u00fcr Passw\u00f6rter - Phishing",
+          "type": "1"
+        },
+        {
+          "content": "",
+          "contentID": "a4634beb-cb0c-49f8-aa8d-43f5fde30abb",
+          "name": "Erkenne die Phishing Mails",
+          "type": "4"
+        },
+        {
+          "content": "<p>L\u00e4ngere Passw\u00f6rter sind sicherer, weil sie schwerer zu erraten sind. Wenn ein Passwort kurz ist, gibt es nicht viele verschiedene Buchstaben oder Zahlen, die verwendet werden k\u00f6nnen, und es kann leicht von jemandem erraten werden, der es herausfinden will. Wenn das Passwort jedoch l\u00e4nger ist, gibt es viele mehr M\u00f6glichkeiten f\u00fcr Buchstaben und Zahlen, und es ist schwieriger f\u00fcr jemanden, es zu erraten.</p><p>Es ist wichtig, dass dein Passwort lang genug ist und aus einer Kombination von Buchstaben, Ziffern und Sonderzeichen besteht, damit es schwieriger f\u00fcr jemanden ist, es zu erraten und damit es sicher bleibt.</p>",
+          "contentID": "89650385-856f-43ef-a11d-88e0b78ef0f0",
+          "name": "Warum sind l\u00e4nger Passw\u00f6rter sicher?",
+          "type": "1"
+        },
+        {
+          "content": "<p>B\u00f6sewichte, die dein Passwort stehlen wollen, \u00fcberlegen aber nicht nur selbst, welches Passwort du verwendest haben k\u00f6nntest. Manchmal probieren sie auch einfach viele Passw\u00f6rter durch.&nbsp;</p><p>Nat\u00fcrlich dauert es f\u00fcr eine Person sehr lange, alle m\u00f6glichen Passwort-Kombinationen durchzuprobieren. F\u00fcr einen Computer ist das allerdings ein Kinderspiel.</p><p>Stell dir zum Beispiel ein 4-stelliges Passwort vor, dass nur aus Ziffern besteht, wie bei einem Handy. F\u00fcr so ein Passwort gibt es 10.000 verschiedene M\u00f6glichkeiten. F\u00fcr dich w\u00fcrde es sehr lange dauern, alle Kombinationen zu probieren. Ein Computer ben\u00f6tigt daf\u00fcr allerdings im Durchschnitt nur 6 Minuten, bis er das richtige Passwort erraten hat.</p>",
+          "contentID": "7a2a8415-7741-4dd5-844f-09cda2c10e4f",
+          "name": "Passw\u00f6rter erraten",
+          "type": "1"
+        },
+        {
+          "content": "",
+          "contentID": "7c874e41-c142-45dd-b0f8-5f8f255526ab",
+          "name": "Wie lange sollte ein Passwort sein?",
+          "type": "4"
+        },
+        {
+          "content": "<p>Wie du siehst, gibt es f\u00fcr Passw\u00f6rter sehr viele Gefahren und man ist nie zu 100 % sicher. Wenn du die gelernten Tipps und Tricks anwendest, bist du allerdings schon sehr gut gegen viele Gefahren gesch\u00fctzt.</p><p>Zum Abschluss kannst du noch ein Quiz machen, dass all dein gelerntes Wissen \u00fcber Passw\u00f6rter auf die Probe stellt.</p>",
+          "contentID": "48c0b615-c605-4ec5-8f14-45478e72033a",
+          "name": "Viele Gefahren - aber du bist ger\u00fcstet",
+          "type": "1"
+        }
+      ]
+    }
+  ]
+}

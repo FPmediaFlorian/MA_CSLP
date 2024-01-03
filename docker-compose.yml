@@ -1,0 +1,25 @@
+version: "3.8"
+
+services:
+  api:
+    container_name: api
+    restart: unless-stopped
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    volumes:
+      - "./api:/api"
+    ports:
+      - 5050:5050
+
+  ui:
+    container_name: ui
+    restart: unless-stopped
+    build:
+      context: ./ui
+      dockerfile: Dockerfile
+    ports:
+      - 8080:3000
+    #  mount the volumes so we can change code and hot reload
+    volumes:
+      - "./ui:/ui"
