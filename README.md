@@ -1,4 +1,13 @@
-# Deployment
+# Enhancing Cybersecurity Awareness in Children through Serious Games and Gamification
+
+## Description:
+This master's thesis project explores the synergistic potential of Serious Games, Digital Wellness, and Gamification in the realm of education, with a particular emphasis on boosting cybersecurity awareness among children. Through an extensive literature review, this research underscores the effectiveness of gamification as a dynamic learning tool, the importance of fostering digital wellness from a young age, and the role of gamification in keeping students engaged.
+
+The core of this project is the development of a prototype platform designed to educate children about cybersecurity principles. This platform serves not only as a knowledge repository but also as a tool to instill habits that promote digital well-being. The project extends beyond theoretical research, incorporating practical testing and evaluation of existing gamification apporaches and Serious Games. This approach enriches the empirical foundation of the prototype, ensuring its effectiveness and relevance.
+
+Aiming to contribute to a digitally literate and responsible younger generation, this project represents a significant step towards melding educational content with digital best practices. It adopts a multi-dimensional approach, combining pedagogical strategies with interactive technologies to nurture a secure and conscientious digital society, one child at a time​​.
+
+## Deployment
 
 In this section of the master's thesis, the focus is on the critical
 phase of transitioning the cybersecurity learning platform from
@@ -10,7 +19,7 @@ for deployment, underscore the essential function of Docker in this
 operation, and offer a detailed, step-by-step guide for platform
 deployment.
 
-## Prerequisites
+### Prerequisites
 
 In order to deploy and also use the protoype some prerequsites have to
 be matched.
@@ -29,7 +38,7 @@ be matched.
     and also control several changes that might be made to the source
     code.
 
-## Dockerization
+### Dockerization
 
 Using Docker for projects offers numerous advantages. It provides
 isolation and consistency, ensuring the application behaves consistently
@@ -50,7 +59,7 @@ The second image is responsible for hosting the frontend (UI) and is
 based on a Node.js image. This component handles the user interface and
 user interaction.
 
-## How to deploy - Step by Step
+### How to deploy - Step by Step
 
 1.  **Meet Prerequisites**: To be able to tryout the prototype you need
     to meet the prerequisites.
